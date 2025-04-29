@@ -375,6 +375,11 @@
                     <attribute id="Spells" type="LSString" value="Target_TollTheDead"/>
                     <attribute id="UUID" type="guid" value="50f53298-a290-4f25-b1a7-08d9b65bac31"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="FireElementalistCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_FireBolt"/>
+                    <attribute id="UUID" type="guid" value="bdb45c8d-54eb-4c35-abd8-fb21f476024b"/>
+                </node>
             </children>
         </node>
     </region>

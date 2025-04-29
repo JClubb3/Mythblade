@@ -422,9 +422,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Fire Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_FireElementalist;MYT_FireElementalist_PrimordialLash"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_FireElementalist;MYT_FireElementalist_PrimordialLash;MYT_FireElementalist_ArcaneElemancy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(26f90f33-cb73-4c6a-b6b3-1c147a6415e3,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(26f90f33-cb73-4c6a-b6b3-1c147a6415e3,,,,AlwaysPrepared);AddSpells(bdb45c8d-54eb-4c35-abd8-fb21f476024b,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
                     <attribute id="UUID" type="guid" value="e8e10146-c1c1-4a39-b791-0e9420481a5b"/>
                 </node>
