@@ -504,9 +504,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_EarthElementalist;MYT_EarthElementalist_PrimordialLash"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_EarthElementalist;MYT_EarthElementalist_PrimordialLash;MYT_EarthElemenatlist_ArcaneElemancy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(43ad7ffe-1f09-41f4-ab16-65d37344b462,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(43ad7ffe-1f09-41f4-ab16-65d37344b462,,,,AlwaysPrepared);AddSpells(d84b592f-3c5b-48fc-8401-d34d94e47b66,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
                     <attribute id="UUID" type="guid" value="b532f322-f65a-4ca6-8652-1efe2b677999"/>
                 </node>

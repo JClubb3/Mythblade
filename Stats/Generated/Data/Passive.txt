@@ -257,3 +257,10 @@ data "Description" "h93444477g3163gd753g5697g01968647b070;1"
 data "Icon" "Spell_New_ShapeWater"
 data "Properties" "Highlighted"
 
+new entry "MYT_EarthElemenatlist_ArcaneElemancy"
+type "PassiveData"
+data "DisplayName" "hc23b2db9g07aag648cgbeadgd5bbfd6e8044;1"
+data "Description" "h1af38e73ge54dg7b8egc31eg199c6fc95038;1"
+data "Icon" "Spell_New_MoldEarth"
+data "Properties" "Highlighted"
+

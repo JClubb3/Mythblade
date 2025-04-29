@@ -385,6 +385,11 @@
                     <attribute id="Spells" type="LSString" value="Target_ShapeWater_Container"/>
                     <attribute id="UUID" type="guid" value="7869416b-da4c-48a9-81c7-94a876e32c7c"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EarthElemenatlistCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_CreateDestroyMoldEarth"/>
+                    <attribute id="UUID" type="guid" value="d84b592f-3c5b-48fc-8401-d34d94e47b66"/>
+                </node>
             </children>
         </node>
     </region>
