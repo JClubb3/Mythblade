@@ -395,6 +395,11 @@
                     <attribute id="Spells" type="LSString" value="Target_Gust"/>
                     <attribute id="UUID" type="guid" value="9673d3e0-c29d-4106-a69c-a6cc5dace4f2"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="ShaperCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_Prestidigitation"/>
+                    <attribute id="UUID" type="guid" value="af38d8f4-535d-4985-9c4b-9648d13b8e71"/>
+                </node>
             </children>
         </node>
     </region>

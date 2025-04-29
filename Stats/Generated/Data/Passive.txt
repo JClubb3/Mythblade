@@ -271,3 +271,10 @@ data "Description" "he327fedbg79bag32ecgf0b1g7836c2432c0a;1"
 data "Icon" "Spell_New_Gust"
 data "Properties" "Highlighted"
 
+new entry "MYT_Shaper_ShaperSavant"
+type "PassiveData"
+data "DisplayName" "hcddda5begf2c3gb33ag1e35ga1655a7ab462;1"
+data "Description" "h334b300agd2b4g2639g9415g27578e95e29f;1"
+data "Icon" "Spell_New_Prestidigitation"
+data "Properties" "Highlighted"
+

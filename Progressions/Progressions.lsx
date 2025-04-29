@@ -340,9 +340,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Shaper"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Shaper;MYT_Shaper_ShapersBlade;MYT_Shaper_ShapersBlade_Psychic;MYT_Shaper_ShapersBlade_Acid;MYT_Shaper_ShapersBlade_Necrotic;MYT_Shaper_ShapersBlade_Fire;MYT_Shaper_ShapersBlade_Lightning;MYT_Shaper_ShapersBlade_Poison;MYT_Shaper_ShapersBlade_Force;MYT_Shaper_ShapersBlade_Thunder;MYT_Shaper_ShapersBlade_Cold;MYT_Shaper_ShapersBlade_Radiant"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Shaper;MYT_Shaper_ShapersBlade;MYT_Shaper_ShapersBlade_Psychic;MYT_Shaper_ShapersBlade_Acid;MYT_Shaper_ShapersBlade_Necrotic;MYT_Shaper_ShapersBlade_Fire;MYT_Shaper_ShapersBlade_Lightning;MYT_Shaper_ShapersBlade_Poison;MYT_Shaper_ShapersBlade_Force;MYT_Shaper_ShapersBlade_Thunder;MYT_Shaper_ShapersBlade_Cold;MYT_Shaper_ShapersBlade_Radiant;MYT_Shaper_ShaperSavant"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(42d3172d-034a-4d71-9fc0-0a067c9f0b71,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(42d3172d-034a-4d71-9fc0-0a067c9f0b71,,,,AlwaysPrepared);AddSpells(af38d8f4-535d-4985-9c4b-9648d13b8e71,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="1f9cf868-691e-4dc3-8246-360c9b1c8e5b"/>
                     <attribute id="UUID" type="guid" value="0f13c4a6-17d2-436f-9ccd-4ab264bda074"/>
                 </node>
