@@ -365,6 +365,46 @@
                     <attribute id="Spells" type="LSString" value="Target_MageHand"/>
                     <attribute id="UUID" type="guid" value="483ce01b-c0dd-4766-8979-958e16258e60"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DistortionistCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_MinorIllusion"/>
+                    <attribute id="UUID" type="guid" value="80ba8a78-e0ab-4f84-b9bb-db9e96733284"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DeathKnightCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_TollTheDead"/>
+                    <attribute id="UUID" type="guid" value="50f53298-a290-4f25-b1a7-08d9b65bac31"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="FireElementalistCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_FireBolt"/>
+                    <attribute id="UUID" type="guid" value="bdb45c8d-54eb-4c35-abd8-fb21f476024b"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="WaterElemenatlistCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_ShapeWater_Container"/>
+                    <attribute id="UUID" type="guid" value="7869416b-da4c-48a9-81c7-94a876e32c7c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EarthElementalistCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_CreateDestroyMoldEarth"/>
+                    <attribute id="UUID" type="guid" value="d84b592f-3c5b-48fc-8401-d34d94e47b66"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="AirElementalistCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_Gust"/>
+                    <attribute id="UUID" type="guid" value="9673d3e0-c29d-4106-a69c-a6cc5dace4f2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="ShaperCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_Prestidigitation"/>
+                    <attribute id="UUID" type="guid" value="af38d8f4-535d-4985-9c4b-9648d13b8e71"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EclipseCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Moonflare"/>
+                    <attribute id="UUID" type="guid" value="04a52847-1081-41e9-9162-cd25514c40ea"/>
+                </node>
             </children>
         </node>
     </region>

@@ -258,9 +258,9 @@
                     <attribute id="Boosts" type="LSString" value="Proficiency(HeavyArmor)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_DeathKnight;MYT_DeathKnight_Dreadblade"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_DeathKnight;MYT_DeathKnight_Dreadblade;MYT_DeathKnight_DeathToll"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(2ddc1878-c606-4304-b6e7-262a1d6ffe9b,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2ddc1878-c606-4304-b6e7-262a1d6ffe9b,,,,AlwaysPrepared);AddSpells(50f53298-a290-4f25-b1a7-08d9b65bac31,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="1595f78b-9264-411e-9447-b315103d1ed5"/>
                     <attribute id="UUID" type="guid" value="f63615b5-6af9-4ec3-acb0-0a5cdb4d7b73"/>
                 </node>
@@ -299,9 +299,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Distortionist;MYT_Distortionist_Mindblade"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Distortionist;MYT_Distortionist_Mindblade;MYT_Distortionist_IllusionAdept"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(f7849d7f-2841-49a9-81f1-be8db90d653f,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(f7849d7f-2841-49a9-81f1-be8db90d653f,,,,AlwaysPrepared);AddSpells(80ba8a78-e0ab-4f84-b9bb-db9e96733284,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
                     <attribute id="UUID" type="guid" value="79a039b8-33e1-4f15-b975-0d6709e4aa4d"/>
                 </node>
@@ -340,9 +340,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Shaper"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Shaper;MYT_Shaper_ShapersBlade;MYT_Shaper_ShapersBlade_Psychic;MYT_Shaper_ShapersBlade_Acid;MYT_Shaper_ShapersBlade_Necrotic;MYT_Shaper_ShapersBlade_Fire;MYT_Shaper_ShapersBlade_Lightning;MYT_Shaper_ShapersBlade_Poison;MYT_Shaper_ShapersBlade_Force;MYT_Shaper_ShapersBlade_Thunder;MYT_Shaper_ShapersBlade_Cold;MYT_Shaper_ShapersBlade_Radiant"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Shaper;MYT_Shaper_ShapersBlade;MYT_Shaper_ShapersBlade_Psychic;MYT_Shaper_ShapersBlade_Acid;MYT_Shaper_ShapersBlade_Necrotic;MYT_Shaper_ShapersBlade_Fire;MYT_Shaper_ShapersBlade_Lightning;MYT_Shaper_ShapersBlade_Poison;MYT_Shaper_ShapersBlade_Force;MYT_Shaper_ShapersBlade_Thunder;MYT_Shaper_ShapersBlade_Cold;MYT_Shaper_ShapersBlade_Radiant;MYT_Shaper_ShaperSavant"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(42d3172d-034a-4d71-9fc0-0a067c9f0b71,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(42d3172d-034a-4d71-9fc0-0a067c9f0b71,,,,AlwaysPrepared);AddSpells(af38d8f4-535d-4985-9c4b-9648d13b8e71,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="1f9cf868-691e-4dc3-8246-360c9b1c8e5b"/>
                     <attribute id="UUID" type="guid" value="0f13c4a6-17d2-436f-9ccd-4ab264bda074"/>
                 </node>
@@ -381,9 +381,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Eclipse;MYT_Eclipse_StarfireBlade"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Eclipse;MYT_Eclipse_StarfireBlade;MYT_Eclipse_CosmicPower"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(73b24fc2-7b24-4c09-9e8e-c3f34e7100dd,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(73b24fc2-7b24-4c09-9e8e-c3f34e7100dd,,,,AlwaysPrepared);AddSpells(04a52847-1081-41e9-9162-cd25514c40ea,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="2483965f-8319-4075-be1a-f3b4935f0ad8"/>
                     <attribute id="UUID" type="guid" value="b9b127dd-70ee-4550-afc3-75afa6ef4d6e"/>
                 </node>
@@ -422,9 +422,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Fire Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_FireElementalist;MYT_FireElementalist_PrimordialLash"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_FireElementalist;MYT_FireElementalist_PrimordialLash;MYT_FireElementalist_ArcaneElemancy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(26f90f33-cb73-4c6a-b6b3-1c147a6415e3,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(26f90f33-cb73-4c6a-b6b3-1c147a6415e3,,,,AlwaysPrepared);AddSpells(bdb45c8d-54eb-4c35-abd8-fb21f476024b,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
                     <attribute id="UUID" type="guid" value="e8e10146-c1c1-4a39-b791-0e9420481a5b"/>
                 </node>
@@ -463,9 +463,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Water Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_WaterElementalist;MYT_WaterElementalist_PrimordialLash;"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_WaterElementalist;MYT_WaterElementalist_PrimordialLash;MYT_WaterElementalist_ArcaneElemancy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(753a6054-e122-4de9-8e0d-3c2c2fa40558,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(753a6054-e122-4de9-8e0d-3c2c2fa40558,,,,AlwaysPrepared);AddSpells(7869416b-da4c-48a9-81c7-94a876e32c7c,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="d86bd294-75a2-4f2b-8f83-2e56be131a0a"/>
                     <attribute id="UUID" type="guid" value="3d0fdce4-85f5-4f2d-84c8-8f01e3f11f81"/>
                 </node>
@@ -504,9 +504,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_EarthElementalist;MYT_EarthElementalist_PrimordialLash"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_EarthElementalist;MYT_EarthElementalist_PrimordialLash;MYT_EarthElementalist_ArcaneElemancy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(43ad7ffe-1f09-41f4-ab16-65d37344b462,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(43ad7ffe-1f09-41f4-ab16-65d37344b462,,,,AlwaysPrepared);AddSpells(d84b592f-3c5b-48fc-8401-d34d94e47b66,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
                     <attribute id="UUID" type="guid" value="b532f322-f65a-4ca6-8652-1efe2b677999"/>
                 </node>
@@ -545,9 +545,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_AirElementalist;MYT_AirElementalist_PrimordialLash"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_AirElementalist;MYT_AirElementalist_PrimordialLash;MYT_AirElementalist_ArcaneElemancy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(ed2e1038-4c2e-44ac-be4b-ef4d1c614fd6,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ed2e1038-4c2e-44ac-be4b-ef4d1c614fd6,,,,AlwaysPrepared);AddSpells(9673d3e0-c29d-4106-a69c-a6cc5dace4f2,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
                     <attribute id="UUID" type="guid" value="959c130a-bc98-446b-84ac-079f77989d59"/>
                 </node>
