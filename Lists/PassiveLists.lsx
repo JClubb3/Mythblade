@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="MythbladeFightingStyles"/>
+                    <attribute id="Passives" type="LSString" value="FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting,FightingStyle_TwoWeaponFighting"/>
+                    <attribute id="UUID" type="guid" value="7256595f-8197-495b-8111-7303e7dc67fd"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

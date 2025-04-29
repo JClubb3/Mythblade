@@ -1,0 +1,9 @@
+new equipment "EQP_CC_Mythborn"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Rapier"
+add equipmentgroup
+add equipment entry "ARM_ScaleMail_Body"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+

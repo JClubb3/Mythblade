@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="UUID" type="guid" value="53322da3-d02b-44f7-99e9-256eb3fc6247"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

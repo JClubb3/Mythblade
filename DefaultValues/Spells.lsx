@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_BoomingBlade_ClassSpell;Target_ShockingGrasp"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
+                    <attribute id="UUID" type="guid" value="fa3031bd-1ba4-4110-b06e-433d00984914"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

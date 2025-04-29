@@ -1,0 +1,6 @@
+new entry "Shout_MYT_PrimordialLash_Air"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Disengage_BonusAction"
+data "SpellFlags" "NoCameraMove;Temporary"
+

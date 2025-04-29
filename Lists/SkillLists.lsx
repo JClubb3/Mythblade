@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList">
+                    <attribute id="Name" type="FixedString" value="Mythblade Skill List"/>
+                    <attribute id="Skills" type="LSString" value="Arcana, Athletics, History, Insight, Investigation, Perception, Religion"/>
+                    <attribute id="UUID" type="guid" value="1dac48d3-5158-4922-a209-5ed2d25e190c"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

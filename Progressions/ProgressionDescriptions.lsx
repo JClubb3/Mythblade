@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hd636e3c0g1a9cg82b6g2695g24dbfe6814c7" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4ce93ea1g5fb5g4f4cgfd8dg898aa983e9aa" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="FightingStyle"/>
+                    <attribute id="UUID" type="guid" value="0d720cdf-061e-47b7-968d-5c4781e9c920"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hdd685555g022dg1661gf4a3g1993612a47a2" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd62e95cag6755g85ceg2dbbg3d379d492b9a" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
+                    <attribute id="SelectorId" type="FixedString" value="Swordmage_MysticMatter"/>
+                    <attribute id="UUID" type="guid" value="cb8668f4-8b33-449d-ae85-3cca26c2508f"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h22db81b6g2dfcg1c0cgc435g471ea8ecc0e4" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4e83afbegd394gb81dg9cf1g086f297ac58a" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
+                    <attribute id="Type" type="FixedString" value="Mythblade"/>
+                    <attribute id="UUID" type="guid" value="f1dcfc2b-cc46-437b-b4f8-678f34ed6dee"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h80cc7ed1g3cfcg9014gb3deg0798642d5fc7" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0cd1da1dgcdf0gb919g0ac8gddfb0bb4914c" version="1"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:SpellSlot;1:1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="2db3f02e-dfa9-4235-b9bd-28a89bf41435"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="ad4d095f-a3d3-4f31-b9c9-94ed1feacdb9"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
