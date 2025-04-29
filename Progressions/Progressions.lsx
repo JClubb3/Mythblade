@@ -463,9 +463,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Water Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_WaterElementalist;MYT_WaterElementalist_PrimordialLash;"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_WaterElementalist;MYT_WaterElementalist_PrimordialLash;MYT_WaterElementalist_ArcaneElemancy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(753a6054-e122-4de9-8e0d-3c2c2fa40558,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(753a6054-e122-4de9-8e0d-3c2c2fa40558,,,,AlwaysPrepared);AddSpells(7869416b-da4c-48a9-81c7-94a876e32c7c,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="d86bd294-75a2-4f2b-8f83-2e56be131a0a"/>
                     <attribute id="UUID" type="guid" value="3d0fdce4-85f5-4f2d-84c8-8f01e3f11f81"/>
                 </node>

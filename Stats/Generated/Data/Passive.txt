@@ -250,3 +250,10 @@ data "Description" "hf24c70eeg022dgc07fg3d69gf7b1107ac97b;1"
 data "Icon" "Spell_Evocation_FireBolt"
 data "Properties" "Highlighted"
 
+new entry "MYT_WaterElementalist_ArcaneElemancy"
+type "PassiveData"
+data "DisplayName" "he94fe069g986cgdd45ge56cg8a281ad5b9d4;1"
+data "Description" "h93444477g3163gd753g5697g01968647b070;1"
+data "Icon" "Spell_New_ShapeWater"
+data "Properties" "Highlighted"
+

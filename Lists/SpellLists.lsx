@@ -380,6 +380,11 @@
                     <attribute id="Spells" type="LSString" value="Projectile_FireBolt"/>
                     <attribute id="UUID" type="guid" value="bdb45c8d-54eb-4c35-abd8-fb21f476024b"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="WaterElemenatlistCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_ShapeWater_Container"/>
+                    <attribute id="UUID" type="guid" value="7869416b-da4c-48a9-81c7-94a876e32c7c"/>
+                </node>
             </children>
         </node>
     </region>
