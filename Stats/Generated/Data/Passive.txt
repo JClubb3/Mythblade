@@ -285,3 +285,23 @@ data "Description" "hdedc6228g5554g8b1dgeb12g472029cce812;1"
 data "Icon" "Spell_New_Moonflare"
 data "Properties" "Highlighted"
 
+new entry "MYT_DeathKnight_ArmoredDeath"
+type "PassiveData"
+data "DisplayName" "ha836a070ga108ga414ge24fg54472780f251;1"
+data "Description" "h3c2a755egffd5g5d15gc4d0g7535ea9d7fe7;1"
+data "Icon" "PassiveFeature_HeavilyArmored"
+data "Properties" "Highlighted"
+data "Boosts" "Proficiency(HeavyArmor);"
+
+new entry "MYT_EarthElementalist_UnmovingRock"
+type "PassiveData"
+using "MYT_DeathKnight_ArmoredDeath"
+data "DisplayName" "ha0efaf4bgf3f9g6693ge2d5g2e46792c5405;1"
+data "Description" "hb0136b50g5087gf5acgcce5g26cf8aa4a8ba;1"
+
+new entry "MYT_Eclipse_GravitationalArmor"
+type "PassiveData"
+using "MYT_DeathKnight_ArmoredDeath"
+data "DisplayName" "h96cd6d42g2974g6fd2g4f72g10c20f1f2b92;1"
+data "Description" "hf0a93345g2a6fg1311g4842g8012d2ff57d4;1"
+
