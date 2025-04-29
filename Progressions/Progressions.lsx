@@ -381,9 +381,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Eclipse;MYT_Eclipse_StarfireBlade"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Eclipse;MYT_Eclipse_StarfireBlade;MYT_Eclipse_CosmicPower"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(73b24fc2-7b24-4c09-9e8e-c3f34e7100dd,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(73b24fc2-7b24-4c09-9e8e-c3f34e7100dd,,,,AlwaysPrepared);AddSpells(04a52847-1081-41e9-9162-cd25514c40ea,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="2483965f-8319-4075-be1a-f3b4935f0ad8"/>
                     <attribute id="UUID" type="guid" value="b9b127dd-70ee-4550-afc3-75afa6ef4d6e"/>
                 </node>

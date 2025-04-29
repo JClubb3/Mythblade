@@ -400,6 +400,11 @@
                     <attribute id="Spells" type="LSString" value="Target_Prestidigitation"/>
                     <attribute id="UUID" type="guid" value="af38d8f4-535d-4985-9c4b-9648d13b8e71"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EclipseCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Moonflare"/>
+                    <attribute id="UUID" type="guid" value="04a52847-1081-41e9-9162-cd25514c40ea"/>
+                </node>
             </children>
         </node>
     </region>
