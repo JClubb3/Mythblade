@@ -299,9 +299,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Distortionist;MYT_Distortionist_Mindblade"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Distortionist;MYT_Distortionist_Mindblade;MYT_Distortionist_IllusionAdept"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(f7849d7f-2841-49a9-81f1-be8db90d653f,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(f7849d7f-2841-49a9-81f1-be8db90d653f,,,,AlwaysPrepared);AddSpells(80ba8a78-e0ab-4f84-b9bb-db9e96733284,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
                     <attribute id="UUID" type="guid" value="79a039b8-33e1-4f15-b975-0d6709e4aa4d"/>
                 </node>

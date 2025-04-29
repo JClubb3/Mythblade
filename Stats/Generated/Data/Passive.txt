@@ -229,3 +229,10 @@ data "Description" "h717b5809gbb37g6310g0fcag579bc703c92a;1"
 data "Icon" "Spell_Conjuration_MageHand"
 data "Properties" "Highlighted"
 
+new entry "MYT_Distortionist_IllusionAdept"
+type "PassiveData"
+data "DisplayName" "hddfb2f21g0754g76a9g24b2g36a5d24e182a;1"
+data "Description" "hb4a31826g1328g8e88gfe40gcffa3295170d;1"
+data "Icon" "Spell_Illusion_MinorIllusion"
+data "Properties" "Highlighted"
+

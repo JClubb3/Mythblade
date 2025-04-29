@@ -365,6 +365,11 @@
                     <attribute id="Spells" type="LSString" value="Target_MageHand"/>
                     <attribute id="UUID" type="guid" value="483ce01b-c0dd-4766-8979-958e16258e60"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DistortionistCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_MinorIllusion"/>
+                    <attribute id="UUID" type="guid" value="80ba8a78-e0ab-4f84-b9bb-db9e96733284"/>
+                </node>
             </children>
         </node>
     </region>
