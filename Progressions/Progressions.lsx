@@ -504,7 +504,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_EarthElementalist;MYT_EarthElementalist_PrimordialLash;MYT_EarthElemenatlist_ArcaneElemancy"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_EarthElementalist;MYT_EarthElementalist_PrimordialLash;MYT_EarthElementalist_ArcaneElemancy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(43ad7ffe-1f09-41f4-ab16-65d37344b462,,,,AlwaysPrepared);AddSpells(d84b592f-3c5b-48fc-8401-d34d94e47b66,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
@@ -545,9 +545,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_AirElementalist;MYT_AirElementalist_PrimordialLash"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_AirElementalist;MYT_AirElementalist_PrimordialLash;MYT_AirElementalist_ArcaneElemancy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(ed2e1038-4c2e-44ac-be4b-ef4d1c614fd6,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ed2e1038-4c2e-44ac-be4b-ef4d1c614fd6,,,,AlwaysPrepared);AddSpells(9673d3e0-c29d-4106-a69c-a6cc5dace4f2,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
                     <attribute id="UUID" type="guid" value="959c130a-bc98-446b-84ac-079f77989d59"/>
                 </node>

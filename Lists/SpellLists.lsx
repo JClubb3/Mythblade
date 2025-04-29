@@ -386,9 +386,14 @@
                     <attribute id="UUID" type="guid" value="7869416b-da4c-48a9-81c7-94a876e32c7c"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Name" type="FixedString" value="EarthElemenatlistCantrip"/>
+                    <attribute id="Name" type="FixedString" value="EarthElementalistCantrip"/>
                     <attribute id="Spells" type="LSString" value="Target_CreateDestroyMoldEarth"/>
                     <attribute id="UUID" type="guid" value="d84b592f-3c5b-48fc-8401-d34d94e47b66"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="AirElementalistCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_Gust"/>
+                    <attribute id="UUID" type="guid" value="9673d3e0-c29d-4106-a69c-a6cc5dace4f2"/>
                 </node>
             </children>
         </node>
