@@ -370,6 +370,11 @@
                     <attribute id="Spells" type="LSString" value="Target_MinorIllusion"/>
                     <attribute id="UUID" type="guid" value="80ba8a78-e0ab-4f84-b9bb-db9e96733284"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DeathKnightCantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_TollTheDead"/>
+                    <attribute id="UUID" type="guid" value="50f53298-a290-4f25-b1a7-08d9b65bac31"/>
+                </node>
             </children>
         </node>
     </region>

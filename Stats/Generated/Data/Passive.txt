@@ -236,3 +236,10 @@ data "Description" "hb4a31826g1328g8e88gfe40gcffa3295170d;1"
 data "Icon" "Spell_Illusion_MinorIllusion"
 data "Properties" "Highlighted"
 
+new entry "MYT_DeathKnight_DeathToll"
+type "PassiveData"
+data "DisplayName" "h9504d705g2449gc0d2g3722g86768ba246fe;1"
+data "Description" "he0445903g3d0fg68b2g4000gdd7d62e67f83;1"
+data "Icon" "Spell_TollOfTheDead"
+data "Properties" "Highlighted"
+

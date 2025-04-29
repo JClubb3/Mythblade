@@ -258,9 +258,9 @@
                     <attribute id="Boosts" type="LSString" value="Proficiency(HeavyArmor)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_DeathKnight;MYT_DeathKnight_Dreadblade"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_DeathKnight;MYT_DeathKnight_Dreadblade;MYT_DeathKnight_DeathToll"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(2ddc1878-c606-4304-b6e7-262a1d6ffe9b,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2ddc1878-c606-4304-b6e7-262a1d6ffe9b,,,,AlwaysPrepared);AddSpells(50f53298-a290-4f25-b1a7-08d9b65bac31,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="1595f78b-9264-411e-9447-b315103d1ed5"/>
                     <attribute id="UUID" type="guid" value="f63615b5-6af9-4ec3-acb0-0a5cdb4d7b73"/>
                 </node>
