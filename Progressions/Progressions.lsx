@@ -216,7 +216,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Swordmage;MYT_Swordmage_MarkOfWarding;MYT_Swordmage_MysticMatter"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Swordmage;MYT_Swordmage_MarkOfWarding;MYT_Swordmage_MysticMatter;MYT_SwordMage_ArcaneAegis"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(e3cddc0a-ab66-4063-a904-7ba49fe08d09,,,,AlwaysPrepared);AddSpells(483ce01b-c0dd-4766-8979-958e16258e60,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>

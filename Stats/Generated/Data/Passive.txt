@@ -305,3 +305,11 @@ using "MYT_DeathKnight_ArmoredDeath"
 data "DisplayName" "h96cd6d42g2974g6fd2g4f72g10c20f1f2b92;1"
 data "Description" "hf0a93345g2a6fg1311g4842g8012d2ff57d4;1"
 
+new entry "MYT_SwordMage_ArcaneAegis"
+type "PassiveData"
+data "DisplayName" "hd3f70babg1f19gc0d7g7731g5fef94678fea;1"
+data "Description" "h29fac11eg31cbgddefg36eag9406759c62a3;1"
+data "Icon" "PassiveFeature_Shield"
+data "Properties" "Highlighted"
+data "Boosts" "Proficiency(Shields);"
+
