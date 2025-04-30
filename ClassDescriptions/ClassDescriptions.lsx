@@ -33,7 +33,7 @@
                     </children>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h4063d4c8g31a9g8330g5c07g31fafb5cfc7a" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4063d4c8g31a9g8330g5c07g31fafb5cfc7a" version="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Swordmage"/>
@@ -45,7 +45,7 @@
                     <attribute id="UUID" type="guid" value="0d6c1dd9-061c-4935-a61b-b2642d95ef75"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h4b0a99c9g9405gf726g0846gcbf986bf2306" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4b0a99c9g9405gf726g0846gcbf986bf2306" version="3"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="DeathKnight"/>
@@ -57,7 +57,7 @@
                     <attribute id="UUID" type="guid" value="070fb2c8-4d96-4397-99c8-23e195a5f5d3"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="hef2a5f30g3bc0gf4f0ge68eg904c29906a80" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hef2a5f30g3bc0gf4f0ge68eg904c29906a80" version="3"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Distortionist"/>
@@ -69,7 +69,7 @@
                     <attribute id="UUID" type="guid" value="66cc6329-4649-4dbc-b809-9115eeb51e2c"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="hef0742e3g4ff4g468dgfbf4g8821f1882619" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hef0742e3g4ff4g468dgfbf4g8821f1882619" version="3"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Shaper"/>
@@ -81,7 +81,7 @@
                     <attribute id="UUID" type="guid" value="b64a9102-c0a3-44ae-b7fa-22ebee0d0ef8"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h5a28f23cg957cgc607g334ag6e71ca84eedc" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5a28f23cg957cgc607g334ag6e71ca84eedc" version="3"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Eclipse"/>
@@ -93,7 +93,7 @@
                     <attribute id="UUID" type="guid" value="63b06110-5828-45d0-9a81-16c61bdead97"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h5abde352g443ag2c59g3c51gfe0a47f8995e" version="3"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5abde352g443ag2c59g3c51gfe0a47f8995e" version="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="FireElementaltist"/>
@@ -105,7 +105,7 @@
                     <attribute id="UUID" type="guid" value="3b17b354-e2ba-4259-bf70-6b3df29d6124"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h5b555b80gfa74gaa37g4a1cgd1374b98f53f" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5b555b80gfa74gaa37g4a1cgd1374b98f53f" version="3"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="WaterElementalist"/>
@@ -117,7 +117,7 @@
                     <attribute id="UUID" type="guid" value="6be0c34d-63e3-4113-a738-84fb56237b3c"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h43f3fe5cg8635g7d17g34bdgdd72d882eabb" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h43f3fe5cg8635g7d17g34bdgdd72d882eabb" version="3"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="EarthElementalist"/>
@@ -129,7 +129,7 @@
                     <attribute id="UUID" type="guid" value="0b87610e-b5ae-4653-9b76-b932249c182b"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="hf5afa8c7ge99dgeb4eg10d1g57c9b8dee1cf" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf5afa8c7ge99dgeb4eg10d1g57c9b8dee1cf" version="3"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="AirElementalist"/>
