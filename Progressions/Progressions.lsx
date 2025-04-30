@@ -216,7 +216,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Swordmage;MYT_Swordmage_MarkOfWarding;MYT_Swordmage_MysticMatter"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Swordmage;MYT_Swordmage_MarkOfWarding;MYT_Swordmage_MysticMatter;MYT_SwordMage_ArcaneAegis"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(e3cddc0a-ab66-4063-a904-7ba49fe08d09,,,,AlwaysPrepared);AddSpells(483ce01b-c0dd-4766-8979-958e16258e60,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
@@ -255,10 +255,9 @@
                     <attribute id="UUID" type="guid" value="b6d63fb6-a73d-4aa7-aad2-07436c6d8190"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="Proficiency(HeavyArmor)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_DeathKnight;MYT_DeathKnight_Dreadblade;MYT_DeathKnight_DeathToll"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_DeathKnight;MYT_DeathKnight_Dreadblade;MYT_DeathKnight_DeathToll;MYT_DeathKnight_ArmoredDeath"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(2ddc1878-c606-4304-b6e7-262a1d6ffe9b,,,,AlwaysPrepared);AddSpells(50f53298-a290-4f25-b1a7-08d9b65bac31,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="1595f78b-9264-411e-9447-b315103d1ed5"/>
@@ -381,7 +380,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Eclipse;MYT_Eclipse_StarfireBlade;MYT_Eclipse_CosmicPower"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Eclipse;MYT_Eclipse_StarfireBlade;MYT_Eclipse_CosmicPower;MYT_Eclipse_GravitationalArmor"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(73b24fc2-7b24-4c09-9e8e-c3f34e7100dd,,,,AlwaysPrepared);AddSpells(04a52847-1081-41e9-9162-cd25514c40ea,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="2483965f-8319-4075-be1a-f3b4935f0ad8"/>
@@ -504,7 +503,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_EarthElementalist;MYT_EarthElementalist_PrimordialLash;MYT_EarthElementalist_ArcaneElemancy"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_EarthElementalist;MYT_EarthElementalist_PrimordialLash;MYT_EarthElementalist_ArcaneElemancy;MYT_EarthElementalist_UnmovingRock"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(43ad7ffe-1f09-41f4-ab16-65d37344b462,,,,AlwaysPrepared);AddSpells(d84b592f-3c5b-48fc-8401-d34d94e47b66,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
