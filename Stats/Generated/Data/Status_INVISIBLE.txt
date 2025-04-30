@@ -1,0 +1,7 @@
+new entry "MYT_DISTORTIONIST_DECOY"
+type "StatusData"
+data "StatusType" "INVISIBLE"
+using "INVISIBLE"
+data "DisplayName" "h03279f20g4b7agcbbcgb2dagb11a03e10c02;1"
+data "TickType" "StartTurn"
+

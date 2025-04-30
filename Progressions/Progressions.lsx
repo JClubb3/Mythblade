@@ -631,6 +631,14 @@
                     <attribute id="TableUUID" type="guid" value="3e7daade-1a01-48d7-a27e-629b33247646"/>
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
                 </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Distortionist_Decoy"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
+                    <attribute id="UUID" type="guid" value="9ff39ca7-1e68-471b-86b7-2e88b43ad759"/>
+                </node>
             </children>
         </node>
     </region>
