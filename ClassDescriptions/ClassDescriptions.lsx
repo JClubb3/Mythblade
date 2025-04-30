@@ -93,50 +93,50 @@
                     <attribute id="UUID" type="guid" value="63b06110-5828-45d0-9a81-16c61bdead97"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h5abde352g443ag2c59g3c51gfe0a47f8995e" version="4"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5abde352g443ag2c59g3c51gfe0a47f8995e" version="5"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="FireElementaltist"/>
                     <attribute id="ParentGuid" type="guid" value="ee6e859e-f3a0-468d-ac5d-9f64acca65f9"/>
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
-                    <attribute id="ShortName" type="TranslatedString" handle="hcdd3aa44g20acg6350g2f53g3780d52c7be5" version="2"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="hcdd3aa44g20acg6350g2f53g3780d52c7be5" version="3"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="4"/>
                     <attribute id="UUID" type="guid" value="3b17b354-e2ba-4259-bf70-6b3df29d6124"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h5b555b80gfa74gaa37g4a1cgd1374b98f53f" version="3"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5b555b80gfa74gaa37g4a1cgd1374b98f53f" version="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="WaterElementalist"/>
                     <attribute id="ParentGuid" type="guid" value="ee6e859e-f3a0-468d-ac5d-9f64acca65f9"/>
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="d86bd294-75a2-4f2b-8f83-2e56be131a0a"/>
-                    <attribute id="ShortName" type="TranslatedString" handle="heb37ff48gce06gf6a0g6f63g3f4cb647ad48" version="1"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="heb37ff48gce06gf6a0g6f63g3f4cb647ad48" version="2"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="4"/>
                     <attribute id="UUID" type="guid" value="6be0c34d-63e3-4113-a738-84fb56237b3c"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h43f3fe5cg8635g7d17g34bdgdd72d882eabb" version="3"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h43f3fe5cg8635g7d17g34bdgdd72d882eabb" version="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="EarthElementalist"/>
                     <attribute id="ParentGuid" type="guid" value="ee6e859e-f3a0-468d-ac5d-9f64acca65f9"/>
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
-                    <attribute id="ShortName" type="TranslatedString" handle="he76813feg054dged30g350ag1c78f9b1ca23" version="1"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="he76813feg054dged30g350ag1c78f9b1ca23" version="2"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="4"/>
                     <attribute id="UUID" type="guid" value="0b87610e-b5ae-4653-9b76-b932249c182b"/>
                 </node>
                 <node id="ClassDescription">
-                    <attribute id="DisplayName" type="TranslatedString" handle="hf5afa8c7ge99dgeb4eg10d1g57c9b8dee1cf" version="3"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf5afa8c7ge99dgeb4eg10d1g57c9b8dee1cf" version="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="AirElementalist"/>
                     <attribute id="ParentGuid" type="guid" value="ee6e859e-f3a0-468d-ac5d-9f64acca65f9"/>
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
-                    <attribute id="ShortName" type="TranslatedString" handle="h18145f1bgc42ag0e34g25e3g7aa074a21e9c" version="1"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="h18145f1bgc42ag0e34g25e3g7aa074a21e9c" version="2"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="4"/>
                     <attribute id="UUID" type="guid" value="a9188b2f-a75a-4d08-86b6-9321c62f57b6"/>
                 </node>
