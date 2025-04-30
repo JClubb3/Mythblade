@@ -347,3 +347,18 @@ data "ToggleOnFunctors" "%% EMPTY"
 data "ToggleOffFunctors" "%% EMPTY"
 data "ToggleOffContext" "None"
 
+new entry "MYT_SwordMage_ImpenetrableWarding"
+type "PassiveData"
+data "DisplayName" "hadb76467gb9a4gf537g65a6g649f1769ce9d;1"
+data "Description" "h758e4b8bg9504g7d71g7ef0gc9c0372abb71;1"
+data "Icon" "Spell_Abjuration_GlyphOfWarding_ExplosiveRunes"
+data "Properties" "Highlighted"
+data "Boosts" "RollBonus(SavingThrow, IntelligenceModifier);"
+
+new entry "MYT_SwordMage_ImpenetrableWardingShieldBonus"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "BoostContext" "OnEquip"
+data "BoostConditions" "HasShieldEquipped(context.Source);"
+data "Boosts" "AC(2);"
+

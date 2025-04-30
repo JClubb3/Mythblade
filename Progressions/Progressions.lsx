@@ -640,6 +640,14 @@
                     <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
                     <attribute id="UUID" type="guid" value="9ff39ca7-1e68-471b-86b7-2e88b43ad759"/>
                 </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_SwordMage_ImpenetrableWarding;MYT_SwordMage_ImpenetrableWardingShieldBonus"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
+                    <attribute id="UUID" type="guid" value="8be0ed6d-9d67-4469-9b3d-b6ffead38f0d"/>
+                </node>
             </children>
         </node>
     </region>
