@@ -324,3 +324,13 @@ data "StatsFunctorContext" "OnCast"
 data "Conditions" "IsSpell() and IsSpellSchool(SpellSchool.Necromancy);"
 data "StatsFunctors" "ApplyStatus(SELF, MYT_DEATHKNIGHT_UNLIVING_VIGOR, 100, -1);"
 
+new entry "MYT_Distortionist_Decoy"
+type "PassiveData"
+data "DisplayName" "h91930dc0g9498ge142g3f9eg605f1ff6d41f;1"
+data "Description" "h62ddbe08g906cg2c90g3631gc4fdc486e5f1;3"
+data "Icon" "Action_Warlock_OneWithShadows"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "IsSpell() and (IsSpellSchool(SpellSchool.Illusion) or IsSpellSchool(SpellSchool.Enchantment)) and not SpellPowerLevelEqualTo(0);"
+data "StatsFunctors" "ApplyStatus(SELF, MYT_DISTORTIONIST_DECOY, 100, 1);"
+
