@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Intelligence);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);"/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Intelligence);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(Shields);"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Mythblade"/>
                     <attribute id="PassivesAdded" type="LSString" value="MYT_Legend_Focus"/>
@@ -15,7 +15,7 @@
                     <attribute id="UUID" type="guid" value="2ffb4929-934c-4c5b-adc0-9346e859a437"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);"/>
+                    <attribute id="Boosts" type="LSString" value="Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(Shields);"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Mythblade"/>
@@ -216,7 +216,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Swordmage;MYT_Swordmage_MarkOfWarding;MYT_Swordmage_MysticMatter;MYT_SwordMage_ArcaneAegis"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_Swordmage;MYT_Swordmage_MarkOfWarding;MYT_Swordmage_MysticMatter;"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(483ce01b-c0dd-4766-8979-958e16258e60,,,,AlwaysPrepared);AddSpells(e3cddc0a-ab66-4063-a904-7ba49fe08d09,MYT_SwordmageSpells,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
@@ -262,6 +262,14 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(50f53298-a290-4f25-b1a7-08d9b65bac31,,,,AlwaysPrepared);AddSpells(2ddc1878-c606-4304-b6e7-262a1d6ffe9b,MYT_DeathKnightSpells,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="1595f78b-9264-411e-9447-b315103d1ed5"/>
                     <attribute id="UUID" type="guid" value="f63615b5-6af9-4ec3-acb0-0a5cdb4d7b73"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_DeathKnight_UnlivingVigor"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1595f78b-9264-411e-9447-b315103d1ed5"/>
+                    <attribute id="UUID" type="guid" value="8dbf6884-454e-404e-b34b-1e8ea5e81eaf"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="5"/>
@@ -622,14 +630,6 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(7a8c98ba-cf77-4f27-97fe-e37c58cde327,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="3e7daade-1a01-48d7-a27e-629b33247646"/>
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="3"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_DeathKnight_UnlivingVigor"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="1595f78b-9264-411e-9447-b315103d1ed5"/>
-                    <attribute id="UUID" type="guid" value="8dbf6884-454e-404e-b34b-1e8ea5e81eaf"/>
                 </node>
             </children>
         </node>
