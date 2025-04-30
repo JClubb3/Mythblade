@@ -25,12 +25,27 @@
                     <attribute id="UUID" type="guid" value="f1dcfc2b-cc46-437b-b4f8-678f34ed6dee"/>
                 </node>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="h80cc7ed1g3cfcg9014gb3deg0798642d5fc7" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h0cd1da1dgcdf0gb919g0ac8gddfb0bb4914c" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h06f412ceg969cg524dgee0bg160c31a3d72e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1a6a5af7g97b3g0aaagbb25gb6eef760c438" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
+                    <attribute id="Type" type="FixedString" value="Mythblade"/>
+                    <attribute id="UUID" type="guid" value="51f40cd2-e0c0-4de2-96c8-c3e9e72db3ee"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb87d0951gfee5g21e1g5c71g91b30e442fdb" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h152bb987g6366g3efbg3cf5g43d83df40275" version="1"/>
                     <attribute id="ParamMatch" type="FixedString" value="0:SpellSlot;1:1"/>
-                    <attribute id="ProgressionTableId" type="guid" value="2db3f02e-dfa9-4235-b9bd-28a89bf41435"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
                     <attribute id="Type" type="FixedString" value="ActionResource"/>
-                    <attribute id="UUID" type="guid" value="ad4d095f-a3d3-4f31-b9c9-94ed1feacdb9"/>
+                    <attribute id="UUID" type="guid" value="581a8a03-0c0f-4dfc-a713-1dc2f0e1b494"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h8e7fb436g6e68g8ba2g1c3eg2448f4611098" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h75110a9fga614g3ebdg94bcg2f1881069423" version="1"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:SpellSlot"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="49c67a74-2f74-4b64-8812-22f0a9b5fa5c"/>
                 </node>
             </children>
         </node>
