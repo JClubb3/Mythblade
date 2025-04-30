@@ -425,3 +425,13 @@ data "RemoveConditions" "not HasTemporaryHP()"
 data "RemoveEvents" "OnDamage"
 data "StatusGroups" "SG_RemoveOnRespec"
 
+new entry "MYT_MAGICOFTHEAGES"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_WARLOCK_QUICKENED_CANTRIPS"
+data "DisplayName" "hf53b90b2gd828gc899gb605g098d75a931c1;1"
+data "Description" "h3dbdbe3ag9c2dg234fgc14bg4fb1b4e6c5cc;1"
+data "StackId" "MYT_MAGICOFTHEAGES"
+data "StackType" "Overwrite"
+data "TickType" "EndTurn"
+

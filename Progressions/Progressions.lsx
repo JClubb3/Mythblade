@@ -209,6 +209,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="20"/>
                     <attribute id="Name" type="LSString" value="Mythblade"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_MagicOfTheAges"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
                     <attribute id="UUID" type="guid" value="f0fcceb9-8c0d-480e-8190-9001c4b2ce16"/>
