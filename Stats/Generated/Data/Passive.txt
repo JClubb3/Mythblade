@@ -376,8 +376,10 @@ data "StatsFunctors" "ApplyStatus(MYT_SWORDMAGE_MARKOFWARDING_SELF, 100, 2);UseS
 new entry "MYT_Swordmage_LegacyShielding"
 type "PassiveData"
 data "DisplayName" "h98bd35f3g18bfg1413gc7a6ga8e711ebf48b;1"
-data "Description" "hb6c5fdf6g4a75g72a6gcb27g8ac46e3ce740;1"
+data "Description" "hb6c5fdf6g4a75g72a6gcb27g8ac46e3ce740;3"
+data "DescriptionParams" "Distance(18)"
+data "Icon" "Spell_Abjuration_WardingBond"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockInterrupt(Interrupt_MYT_Swordmage_LegacyShiedling);"
+data "Boosts" "UnlockInterrupt(Interrupt_MYT_Swordmage_LegacyShielding);ActionResource(LegacyShieldingCharges,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(LegacyShieldingCharges,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(LegacyShieldingCharges,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(LegacyShieldingCharges,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(LegacyShieldingCharges,1,0);"
 data "StatsFunctorContext" "OnCreate;OnLongRest"
 
