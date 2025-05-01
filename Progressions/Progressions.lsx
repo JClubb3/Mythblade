@@ -240,12 +240,28 @@
                     <attribute id="UUID" type="guid" value="ef12a84d-3f56-40ac-9921-e08e72dd6b3f"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_SwordMage_ArcaneRetribution"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
+                    <attribute id="UUID" type="guid" value="7092f0e9-dd1e-49c3-bece-2b2b602ae64e"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(b37cb888-eb74-4b42-a076-d1be7699f32e,MYT_SwordmageSpells,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
                     <attribute id="UUID" type="guid" value="7ccd4b60-b4f5-436c-8dea-a858071cf9a6"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_SwordMage_ImpenetrableWarding;MYT_SwordMage_ImpenetrableWardingShieldBonus"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
+                    <attribute id="UUID" type="guid" value="8be0ed6d-9d67-4469-9b3d-b6ffead38f0d"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="17"/>
@@ -312,6 +328,14 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(80ba8a78-e0ab-4f84-b9bb-db9e96733284,,,,AlwaysPrepared);AddSpells(f7849d7f-2841-49a9-81f1-be8db90d653f,MYT_DistortionistSpells,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
                     <attribute id="UUID" type="guid" value="79a039b8-33e1-4f15-b975-0d6709e4aa4d"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Distortionist_Decoy"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
+                    <attribute id="UUID" type="guid" value="9ff39ca7-1e68-471b-86b7-2e88b43ad759"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="5"/>
@@ -633,28 +657,12 @@
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="3"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Distortionist_Decoy"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
-                    <attribute id="UUID" type="guid" value="9ff39ca7-1e68-471b-86b7-2e88b43ad759"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_SwordMage_ImpenetrableWarding;MYT_SwordMage_ImpenetrableWardingShieldBonus"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Swordmage_LegacyShielding"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
-                    <attribute id="UUID" type="guid" value="8be0ed6d-9d67-4469-9b3d-b6ffead38f0d"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="7"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_SwordMage_ArcaneRetribution"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
-                    <attribute id="UUID" type="guid" value="7092f0e9-dd1e-49c3-bece-2b2b602ae64e"/>
+                    <attribute id="UUID" type="guid" value="02adf54b-a3c8-4268-bfdd-b9ebdd4c348c"/>
                 </node>
             </children>
         </node>

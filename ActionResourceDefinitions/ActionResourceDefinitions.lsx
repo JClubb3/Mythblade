@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h30636e11gae10gffd8gda3agefced463a2d6" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h964c3ccbg3cb4g7f8bg10cdg9cf4de38afde" version="1"/>
+                    <attribute id="Name" type="FixedString" value="LegacyShieldingCharges"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="dfbcb317-3cde-41af-8edc-0ce62142ceb5"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
