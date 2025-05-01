@@ -248,6 +248,14 @@
                     <attribute id="UUID" type="guid" value="7092f0e9-dd1e-49c3-bece-2b2b602ae64e"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Swordmage_LegacyShielding"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
+                    <attribute id="UUID" type="guid" value="02adf54b-a3c8-4268-bfdd-b9ebdd4c348c"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -657,12 +665,12 @@
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="11"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Swordmage_LegacyShielding"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Distortionist_Mindwrack"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
-                    <attribute id="UUID" type="guid" value="02adf54b-a3c8-4268-bfdd-b9ebdd4c348c"/>
+                    <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
+                    <attribute id="UUID" type="guid" value="4dfc5fbf-8166-492a-8b60-78eda11947ce"/>
                 </node>
             </children>
         </node>
