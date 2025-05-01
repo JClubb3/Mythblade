@@ -373,3 +373,11 @@ data "StatsFunctorContext" "OnDamaged"
 data "Conditions" "TotalDamageDoneGreaterThan(0) and Enemy();"
 data "StatsFunctors" "ApplyStatus(MYT_SWORDMAGE_MARKOFWARDING_SELF, 100, 2);UseSpell(SWAP,Target_MYT_Arcane_Retribution,true,true,true);"
 
+new entry "MYT_Swordmage_LegacyShielding"
+type "PassiveData"
+data "DisplayName" "h98bd35f3g18bfg1413gc7a6ga8e711ebf48b;1"
+data "Description" "hb6c5fdf6g4a75g72a6gcb27g8ac46e3ce740;1"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(Interrupt_MYT_Swordmage_LegacyShiedling);"
+data "StatsFunctorContext" "OnCreate;OnLongRest"
+
