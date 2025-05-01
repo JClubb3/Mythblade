@@ -137,6 +137,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3)"/>
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Mythblade"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Spellcharge_DamageUpgrade"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
                     <attribute id="UUID" type="guid" value="8c194195-ed8d-4080-9516-536a0441ec91"/>

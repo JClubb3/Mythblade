@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d6"/>
+                    <attribute id="Level1" type="LSString" value="1d6"/>
+                    <attribute id="Level10" type="LSString" value="1d6"/>
+                    <attribute id="Level11" type="LSString" value="2d6"/>
+                    <attribute id="Level12" type="LSString" value="2d6"/>
+                    <attribute id="Level13" type="LSString" value="2d6"/>
+                    <attribute id="Level14" type="LSString" value="2d6"/>
+                    <attribute id="Level15" type="LSString" value="2d6"/>
+                    <attribute id="Level16" type="LSString" value="2d6"/>
+                    <attribute id="Level17" type="LSString" value="2d6"/>
+                    <attribute id="Level18" type="LSString" value="2d6"/>
+                    <attribute id="Level19" type="LSString" value="2d6"/>
+                    <attribute id="Level2" type="LSString" value="1d6"/>
+                    <attribute id="Level20" type="LSString" value="2d6"/>
+                    <attribute id="Level3" type="LSString" value="1d6"/>
+                    <attribute id="Level4" type="LSString" value="1d6"/>
+                    <attribute id="Level5" type="LSString" value="1d6"/>
+                    <attribute id="Level6" type="LSString" value="1d6"/>
+                    <attribute id="Level7" type="LSString" value="1d6"/>
+                    <attribute id="Level8" type="LSString" value="1d6"/>
+                    <attribute id="Level9" type="LSString" value="1d6"/>
+                    <attribute id="Name" type="FixedString" value="MYT_SpellchargeDamage"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="ee6e859e-f3a0-468d-ac5d-9f64acca65f9"/>
+                    <attribute id="UUID" type="guid" value="0408de76-a02a-4d1e-99fc-4e5f57d415be"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
