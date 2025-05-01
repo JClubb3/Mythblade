@@ -648,6 +648,14 @@
                     <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
                     <attribute id="UUID" type="guid" value="8be0ed6d-9d67-4469-9b3d-b6ffead38f0d"/>
                 </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_SwordMage_ArcaneRetribution"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
+                    <attribute id="UUID" type="guid" value="7092f0e9-dd1e-49c3-bece-2b2b602ae64e"/>
+                </node>
             </children>
         </node>
     </region>
