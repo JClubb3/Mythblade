@@ -90,7 +90,7 @@
                     <attribute id="Name" type="LSString" value="Mythblade"/>
                     <attribute id="PassivesAdded" type="LSString" value="ExtraAttack"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(c861a7fc-a995-4ac0-b074-85ba1fe68a0a)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(ab438769-ce78-4fe1-b0d7-08d3fd8cc486,1,0,,,,AlwaysPrepared);AddSpells(c861a7fc-a995-4ac0-b074-85ba1fe68a0a)"/>
                     <attribute id="TableUUID" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
                     <attribute id="UUID" type="guid" value="e0ffcacc-4036-40be-9b01-a163dc28c36f"/>
                 </node>
@@ -352,6 +352,14 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(13bc886e-c28e-4063-8cbb-d73b3e56b512,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
                     <attribute id="UUID" type="guid" value="538873ad-9171-43fd-b25e-4eba1f4be671"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Distortionist_Mindwrack"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
+                    <attribute id="UUID" type="guid" value="4dfc5fbf-8166-492a-8b60-78eda11947ce"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
@@ -663,14 +671,6 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(7a8c98ba-cf77-4f27-97fe-e37c58cde327,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="3e7daade-1a01-48d7-a27e-629b33247646"/>
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="7"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Distortionist_Mindwrack"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
-                    <attribute id="UUID" type="guid" value="4dfc5fbf-8166-492a-8b60-78eda11947ce"/>
                 </node>
             </children>
         </node>
