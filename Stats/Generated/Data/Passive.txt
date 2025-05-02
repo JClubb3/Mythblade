@@ -133,6 +133,7 @@ data "Icon" "Spell_Evocation_GustOfWind"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "IsWeaponAttack() and ((HasDamageEffectFlag(DamageFlags.Hit) or HasDamageEffectFlag(DamageFlags.Critical)) and Character() and HasStatus('MYT_AIRELEMENTALIST_PRIMORDIALLASH_SELF', context.Source));"
+data "StatsFunctors" "ApplyStatus(SELF, MYT_AIRELEMENTALIST_PRIMORDIALLASH_READY, 100, 1);"
 
 new entry "MYT_Shaper_ShapersBlade"
 type "PassiveData"
