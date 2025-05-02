@@ -12,6 +12,14 @@
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
                     <attribute id="UUID" type="guid" value="dfbcb317-3cde-41af-8edc-0ce62142ceb5"/>
                 </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h0da1ae2eg3efcgf3ccgf657g1f4e23c672eb" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc0e3ac78g7715g48d4g039ag97195a710118" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="IllusionaryDefenseCharge"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="UUID" type="guid" value="255676cc-e494-4050-948d-2f2291ed7ff6"/>
+                </node>
             </children>
         </node>
     </region>
