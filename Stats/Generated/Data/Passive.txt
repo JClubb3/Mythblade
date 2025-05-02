@@ -407,3 +407,11 @@ data "Icon" "Spell_Illusion_MirrorImage"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockInterrupt(Interrupt_MYT_Distortionist_IllusionaryDefense);"
 
+new entry "MYT_Distortionist_Veil"
+type "PassiveData"
+data "DisplayName" "h2a83d344g758ag0162g838cg5d40dd2e039a;1"
+data "Description" "h9540b931g601ag7aaeg5b9bgce94b7715da1;4"
+data "Icon" "Spell_Transmutation_Blink_Activate"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_MYT_Veil);"
+
