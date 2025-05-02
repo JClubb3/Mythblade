@@ -399,3 +399,11 @@ data "Description" "h443fdca4g19b7g857bge571gb4ad515a0601;2"
 data "Icon" "Spell_Transmutation_ElementalWeapon"
 data "Properties" "Highlighted"
 
+new entry "MYT_Distortionist_IllusionaryDefense"
+type "PassiveData"
+data "DisplayName" "h69969327g1b81g9dabg8660ga5fe27af38e8;1"
+data "Description" "h1f45d4b7gc3e2g0603g0136g8d126c8bcd55;2"
+data "Icon" "Spell_Illusion_MirrorImage"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(Interrupt_MYT_Distortionist_IllusionaryDefense);"
+

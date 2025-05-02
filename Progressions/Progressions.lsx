@@ -371,6 +371,15 @@
                     <attribute id="UUID" type="guid" value="928356a0-1efb-4718-9c50-e97e5acf315f"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(IllusionaryDefenseCharge,1, 0);"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Distortionist_IllusionaryDefense"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
+                    <attribute id="UUID" type="guid" value="ed5c7362-e768-4663-bed6-7f1fdff97a89"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -612,7 +621,7 @@
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(3d535eb9-6eab-45e8-8fe2-a393849c8f43,,,,AlwaysPreapred)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(3d535eb9-6eab-45e8-8fe2-a393849c8f43,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
                     <attribute id="UUID" type="guid" value="218526cf-6060-456d-9aed-e215d540b941"/>
                 </node>
