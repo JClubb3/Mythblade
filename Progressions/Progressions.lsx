@@ -47,9 +47,6 @@
                                     <attribute id="Object" type="guid" value="66cc6329-4649-4dbc-b809-9115eeb51e2c"/>
                                 </node>
                                 <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="b64a9102-c0a3-44ae-b7fa-22ebee0d0ef8"/>
-                                </node>
-                                <node id="SubClass">
                                     <attribute id="Object" type="guid" value="63b06110-5828-45d0-9a81-16c61bdead97"/>
                                 </node>
                                 <node id="SubClass">
