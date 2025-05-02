@@ -20,6 +20,14 @@
                     <attribute id="ReplenishType" type="FixedString" value="Rest"/>
                     <attribute id="UUID" type="guid" value="255676cc-e494-4050-948d-2f2291ed7ff6"/>
                 </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h5ba43dcfgad71g7241g8213gd3125c388f18" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf736c887g8b9cg05d5gd0d0g969b59fb5a6d" version="1"/>
+                    <attribute id="Name" type="FixedString" value="VisionOfDeathCharges"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="de90ca43-e190-4500-8aae-55d398618bf7"/>
+                </node>
             </children>
         </node>
     </region>

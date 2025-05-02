@@ -306,6 +306,14 @@
                     <attribute id="UUID" type="guid" value="ab2863cc-055f-40df-97d4-f03ea245d8c7"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_DeathKnight_VisionOfDeath;MYT_DeathKnight_VisionOfDeathCharges"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1595f78b-9264-411e-9447-b315103d1ed5"/>
+                    <attribute id="UUID" type="guid" value="f5ba4be5-7eb1-41d2-9cfd-c0c9a6464804"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -386,6 +394,14 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(28da17f2-e276-43c6-adea-f50ac7c3e7ff,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
                     <attribute id="UUID" type="guid" value="5842e534-d590-4daf-94f8-59cc38c6925a"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Distortionist_Veil"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
+                    <attribute id="UUID" type="guid" value="4b271bd6-c499-4981-ab7e-b3e3d531d7f1"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="17"/>
@@ -681,14 +697,6 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(7a8c98ba-cf77-4f27-97fe-e37c58cde327,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="3e7daade-1a01-48d7-a27e-629b33247646"/>
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="15"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Distortionist_Veil"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
-                    <attribute id="UUID" type="guid" value="4b271bd6-c499-4981-ab7e-b3e3d531d7f1"/>
                 </node>
             </children>
         </node>
