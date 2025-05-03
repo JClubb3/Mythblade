@@ -442,3 +442,13 @@ data "Properties" "Highlighted;OncePerLongRest"
 data "StatsFunctorContext" "OnCreate;OnLongRest"
 data "StatsFunctors" "ApplyStatus(SELF, MYT_EDGEOFDEATH, 100, -1);"
 
+new entry "MYT_Eclipse_CosmicStrike"
+type "PassiveData"
+data "DisplayName" "h6a8a4f59gd18eg035cg199cg8816bc0c1a9d;1"
+data "Description" "h89cab175ge329gd233gbaddgf491d5f7f140;2"
+data "Icon" "Action_Paladin_HolyRebuke"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "IsTeleportSpell();"
+data "StatsFunctors" "ApplyStatus(SELF, MYT_ECLIPSE_COSMICSTRIKE, 100, 2);"
+

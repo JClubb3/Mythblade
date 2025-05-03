@@ -335,6 +335,14 @@
                     <attribute id="UUID" type="guid" value="fbceee0c-ee7a-45fb-8bee-9198aa5ef295"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_DeathKnight_EdgeOfDeath"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1595f78b-9264-411e-9447-b315103d1ed5"/>
+                    <attribute id="UUID" type="guid" value="915f13e1-e1a7-45e8-be1f-93f60e35daa4"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -704,12 +712,13 @@
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="15"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_DeathKnight_EdgeOfDeath"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Eclipse_CosmicStrike"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="1595f78b-9264-411e-9447-b315103d1ed5"/>
-                    <attribute id="UUID" type="guid" value="915f13e1-e1a7-45e8-be1f-93f60e35daa4"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(dbbeaac1-278f-49c3-8205-543b82759c3d,,,,AlwaysPrepared);"/>
+                    <attribute id="TableUUID" type="guid" value="2483965f-8319-4075-be1a-f3b4935f0ad8"/>
+                    <attribute id="UUID" type="guid" value="29b883be-929d-4e13-9b2e-c49c41efbf42"/>
                 </node>
             </children>
         </node>

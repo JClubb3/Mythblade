@@ -416,6 +416,17 @@
                     <attribute id="Spells" type="LSString" value="Shout_MYT_NecromanticLegacy"/>
                     <attribute id="UUID" type="guid" value="a2956c51-7d96-4225-acdc-473499822e44"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="TeleportSpellList"/>
+                    <attribute id="Spells" type="LSString" value="Teleportation_DimensionDoor; Teleportation_DimensionDoor_5; Teleportation_DimensionDoor_6; Target_MistyStep; Target_MistyStep_3; Target_MistyStep_4; Target_MistyStep_5; Target_MistyStep_6; Target_MistyStep_Free; Target_MistyStep_Githyanki; Target_WildMagic_Teleport; Target_GatheredSwarm_Bee_Teleport; Target_GatheredSwarm_Bee_Mighty_Teleport; Target_GatheredSwarm_Jellyfish_Teleport; Target_GatheredSwarm_Jellyfish_Mighty_Teleport; Target_GatheredSwarm_Moth_Teleport; Target_GatheredSwarm_Moth_Mighty_Teleport; Target_BladeFlourish_Mobile_FollowUp; Target_Blink_Teleport; Projectile_ArrowOfTeleportation; Target_WildMagic_Barbarian_Teleport; Teleportation_ThunderStep; Teleportation_ThunderStep_4; Teleportation_ThunderStep_5; Teleportation_ThunderStep_6; Teleportation_ThunderStep_7; Teleportation_ThunderStep_8; Teleportation_ThunderStep_9
+; Projectile_SteelWindStrikeNew; Projectile_SteelWindStrikeNew_6; Projectile_SteelWindStrikeNew_7; Projectile_SteelWindStrikeNew_8; Projectile_SteelWindStrikeNew_9; Projectile_SteelWindStrikeNew_Teleport; Projectile_SteelWindStrikeNew_Teleport_6; Target_FreedomOfTheWaves_Teleport; Target_BenignTransposition_Teleport; Teleport_MYT_CosmicStrike;"/>
+                    <attribute id="UUID" type="guid" value="862c2b74-53ca-45bd-9ee3-12f6a65b90d5"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EclipseCosmicStep"/>
+                    <attribute id="Spells" type="LSString" value="Teleportation_MYT_CosmicStep"/>
+                    <attribute id="UUID" type="guid" value="dbbeaac1-278f-49c3-8205-543b82759c3d"/>
+                </node>
             </children>
         </node>
     </region>

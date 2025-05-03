@@ -1,0 +1,11 @@
+new entry "Teleportation_MYT_CosmicStep"
+type "SpellData"
+data "SpellType" "Teleportation"
+using "Teleportation_DimensionDoor"
+data "Level" "0"
+data "Cooldown" "OncePerShortRest"
+data "AreaRadius" "6"
+data "DisplayName" "h891872ffg5d19g6084gc4e2gd35fb34699eb;1"
+data "UseCosts" "ActionPoint:1;"
+data "SpellFlags" "HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;CannotTargetItems"
+
