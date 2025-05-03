@@ -319,6 +319,14 @@
                     <attribute id="UUID" type="guid" value="83f110f1-162a-41f0-8056-2913f4b0f300"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a2956c51-7d96-4225-acdc-473499822e44,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="1595f78b-9264-411e-9447-b315103d1ed5"/>
+                    <attribute id="UUID" type="guid" value="7500f419-3d23-42c9-b7c8-8af3bb4db239"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Death Knight"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>

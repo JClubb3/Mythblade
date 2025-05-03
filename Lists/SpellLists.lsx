@@ -405,6 +405,17 @@
                     <attribute id="Spells" type="LSString" value="Projectile_Moonflare"/>
                     <attribute id="UUID" type="guid" value="04a52847-1081-41e9-9162-cd25514c40ea"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="29c9cf78-3bd6-47dc-88b4-2dce54710124"/>
+                    <attribute id="Name" type="FixedString" value="DeathKnightNecromanticLegacy"/>
+                    <attribute id="Spells" type="LSString" value="Shout_MYT_NecromanticLegacy"/>
+                    <attribute id="UUID" type="guid" value="601b5429-1bdc-4090-850e-6e0e29b6204d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DeathKnightNecromanticLegacy2"/>
+                    <attribute id="Spells" type="LSString" value="Shout_MYT_NecromanticLegacy"/>
+                    <attribute id="UUID" type="guid" value="a2956c51-7d96-4225-acdc-473499822e44"/>
+                </node>
             </children>
         </node>
     </region>
