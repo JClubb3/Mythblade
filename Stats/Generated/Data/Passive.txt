@@ -432,3 +432,13 @@ type "PassiveData"
 data "Properties" "IsHidden"
 data "Boosts" "ActionResource(VisionOfDeathCharges,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(VisionOfDeathCharges,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(VisionOfDeathCharges,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(VisionOfDeathCharges,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(VisionOfDeathCharges,1,0);"
 
+new entry "MYT_DeathKnight_EdgeOfDeath"
+type "PassiveData"
+data "DisplayName" "h0d82dd35gb9f9g2e4cg6817gfdc37813c006;1"
+data "Description" "ha870fa6fg206dg1823gec1dg676f688153e0;3"
+data "DescriptionParams" "RegainHitPoints(1);GainTemporaryHitPoints(ClassLevel(Mythblade)*2);"
+data "Icon" "PassiveFeature_DraconicAncestry_Black"
+data "Properties" "Highlighted;OncePerLongRest"
+data "StatsFunctorContext" "OnCreate;OnLongRest"
+data "StatsFunctors" "ApplyStatus(SELF, MYT_EDGEOFDEATH, 100, -1);"
+
