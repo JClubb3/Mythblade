@@ -222,7 +222,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="ElementalistWaterLevel3"/>
-                    <attribute id="Spells" type="LSString" value="Target_TidalWave;Target_SleetStorm"/>
+                    <attribute id="Spells" type="LSString" value="Target_TidalWave;Target_FreedomOfTheWaves"/>
                     <attribute id="UUID" type="guid" value="c0a52c58-f2ad-4b90-a7b0-cba9220294e3"/>
                 </node>
                 <node id="SpellList">
