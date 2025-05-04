@@ -492,6 +492,14 @@
                     <attribute id="UUID" type="guid" value="9f408e35-4e97-41ec-9641-5b7ea8f9254a"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Eclipse_GalacticConvergence"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="2483965f-8319-4075-be1a-f3b4935f0ad8"/>
+                    <attribute id="UUID" type="guid" value="f596e647-ab14-4682-a409-f7c088780819"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -721,12 +729,12 @@
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Eclipse_GalacticConvergence"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(847a4db0-928c-4cda-b847-1e4f51754725,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="2483965f-8319-4075-be1a-f3b4935f0ad8"/>
-                    <attribute id="UUID" type="guid" value="f596e647-ab14-4682-a409-f7c088780819"/>
+                    <attribute id="UUID" type="guid" value="f73fa161-1d5d-4ccb-b661-90c6e28fc63f"/>
                 </node>
             </children>
         </node>
