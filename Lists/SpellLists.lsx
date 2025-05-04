@@ -141,7 +141,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="EclipseLevel2"/>
-                    <attribute id="Spells" type="LSString" value="Target_MistyStep;Target_Moonbeam"/>
+                    <attribute id="Spells" type="LSString" value="Target_MistyStep;Target_VortexWarp"/>
                     <attribute id="UUID" type="guid" value="06ec0c11-255f-4408-914b-434df6af785c"/>
                 </node>
                 <node id="SpellList">
