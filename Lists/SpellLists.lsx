@@ -166,7 +166,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="ElementalistFireLevel2"/>
-                    <attribute id="Spells" type="LSString" value="Target_FlamingSphere;Target_HeatMetal"/>
+                    <attribute id="Spells" type="LSString" value="Zone_AganazzarScorcher;Target_HeatMetal"/>
                     <attribute id="UUID" type="guid" value="92dcfa58-1989-4127-a76d-063b77ba0d76"/>
                 </node>
                 <node id="SpellList">
