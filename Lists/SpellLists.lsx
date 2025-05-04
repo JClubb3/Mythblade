@@ -96,7 +96,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="DistortionistLevel3"/>
-                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Zone_Fear"/>
+                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Zone_PsionicBlast"/>
                     <attribute id="UUID" type="guid" value="fd3c10a2-19d4-439a-ab0c-83def8aa6cf6"/>
                 </node>
                 <node id="SpellList">
@@ -141,7 +141,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="EclipseLevel2"/>
-                    <attribute id="Spells" type="LSString" value="Target_MistyStep;Target_Moonbeam"/>
+                    <attribute id="Spells" type="LSString" value="Target_MistyStep;Target_VortexWarp"/>
                     <attribute id="UUID" type="guid" value="06ec0c11-255f-4408-914b-434df6af785c"/>
                 </node>
                 <node id="SpellList">
@@ -166,7 +166,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="ElementalistFireLevel2"/>
-                    <attribute id="Spells" type="LSString" value="Target_FlamingSphere;Target_HeatMetal"/>
+                    <attribute id="Spells" type="LSString" value="Zone_AganazzarScorcher;Target_HeatMetal"/>
                     <attribute id="UUID" type="guid" value="92dcfa58-1989-4127-a76d-063b77ba0d76"/>
                 </node>
                 <node id="SpellList">
@@ -176,7 +176,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="ElementalistFireLevel4"/>
-                    <attribute id="Spells" type="LSString" value="Wall_WallOfFire;Shout_FireShield"/>
+                    <attribute id="Spells" type="LSString" value="Wall_WallOfFire;Projectile_WebOfFire"/>
                     <attribute id="UUID" type="guid" value="6af79a3c-9a1b-4c16-9bc6-a705ccfe0ba7"/>
                 </node>
                 <node id="SpellList">
@@ -222,7 +222,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="ElementalistWaterLevel3"/>
-                    <attribute id="Spells" type="LSString" value="Target_TidalWave;Target_SleetStorm"/>
+                    <attribute id="Spells" type="LSString" value="Target_TidalWave;Target_FreedomOfTheWaves"/>
                     <attribute id="UUID" type="guid" value="c0a52c58-f2ad-4b90-a7b0-cba9220294e3"/>
                 </node>
                 <node id="SpellList">
