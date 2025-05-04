@@ -176,7 +176,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="ElementalistFireLevel4"/>
-                    <attribute id="Spells" type="LSString" value="Wall_WallOfFire;Shout_FireShield"/>
+                    <attribute id="Spells" type="LSString" value="Wall_WallOfFire;Projectile_WebOfFire"/>
                     <attribute id="UUID" type="guid" value="6af79a3c-9a1b-4c16-9bc6-a705ccfe0ba7"/>
                 </node>
                 <node id="SpellList">
