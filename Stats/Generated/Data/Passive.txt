@@ -470,3 +470,11 @@ data "Description" "h2e24f5a0g73ccg6fe2g9b47ga7fd976181d6;1"
 data "Icon" "Spell_Abjuration_ArcaneGate"
 data "Properties" "Highlighted"
 
+new entry "MYT_EarthElementalist_EarthenMastery"
+type "PassiveData"
+using "ElementalAdept_Acid"
+data "DisplayName" "h34cc81eagd911ge3a2g558dg827e5e7a500e;1"
+data "Description" "hc2799a58gf104g4305g4920g9e0eca44479f;1"
+data "Icon" "Spell_Evocation_SpiritualWeapon_Maul"
+data "Boosts" "IF(MainDamageTypeIs(DamageType.Bludgeoning)):MinimumRollResult(Damage,2);IgnoreResistance(Bludgeoning,Resistant);"
+
