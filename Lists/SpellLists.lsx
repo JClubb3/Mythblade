@@ -427,6 +427,11 @@
                     <attribute id="Spells" type="LSString" value="Teleportation_MYT_CosmicStep"/>
                     <attribute id="UUID" type="guid" value="dbbeaac1-278f-49c3-8205-543b82759c3d"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EclipseSingularity"/>
+                    <attribute id="Spells" type="LSString" value="Target_MYT_Singularity"/>
+                    <attribute id="UUID" type="guid" value="847a4db0-928c-4cda-b847-1e4f51754725"/>
+                </node>
             </children>
         </node>
     </region>
