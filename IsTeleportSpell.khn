@@ -37,6 +37,8 @@ function IsTeleportSpell()
     | SpellId('Projectile_SteelWindStrikeNew_Teleport')
     | SpellId('Projectile_SteelWindStrikeNew_Teleport_6')
     | SpellId('Target_FreedomOfTheWaves_Teleport')
+    | SpellId('Teleportation_ArcaneGate')
     | SpellId('Teleportation_MYT_CosmicStep')
     | SpellId('Target_BenignTransposition_Teleport')
+    | SpellId('Teleportation_MYT_ArcaneGate_Eclipse')
 end
