@@ -432,6 +432,11 @@
                     <attribute id="Spells" type="LSString" value="Target_MYT_Singularity"/>
                     <attribute id="UUID" type="guid" value="847a4db0-928c-4cda-b847-1e4f51754725"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EclipseArcaneGate"/>
+                    <attribute id="Spells" type="LSString" value="Teleportation_MYT_ArcaneGate_Eclipse"/>
+                    <attribute id="UUID" type="guid" value="58ec85bb-6322-4c07-87ac-5ad89b1127e3"/>
+                </node>
             </children>
         </node>
     </region>

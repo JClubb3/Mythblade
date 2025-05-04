@@ -463,3 +463,10 @@ data "StatsFunctorContext" "OnCast"
 data "Conditions" "IsTeleportSpell();"
 data "StatsFunctors" "ApplyStatus(SELF, MYT_ECLIPSE_GALACTICCONVERGENCE, 100, 1);"
 
+new entry "MYT_Eclipse_CosmicLegacy"
+type "PassiveData"
+data "DisplayName" "h48d81900ge6c9gf536g036bgf4218c036c59;1"
+data "Description" "h2e24f5a0g73ccg6fe2g9b47ga7fd976181d6;1"
+data "Icon" "Spell_Abjuration_ArcaneGate"
+data "Properties" "Highlighted"
+

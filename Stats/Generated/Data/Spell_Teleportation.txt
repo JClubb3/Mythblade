@@ -11,3 +11,10 @@ data "DescriptionParams" "Distance(9);"
 data "UseCosts" "ActionPoint:1;"
 data "SpellFlags" "HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;CannotTargetItems"
 
+new entry "Teleportation_MYT_ArcaneGate_Eclipse"
+type "SpellData"
+data "SpellType" "Teleportation"
+using "Teleportation_ArcaneGate"
+data "Cooldown" "OncePerRest"
+data "UseCosts" "ActionPoint:1;"
+

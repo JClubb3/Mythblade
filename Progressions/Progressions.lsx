@@ -508,6 +508,14 @@
                     <attribute id="UUID" type="guid" value="465a8981-7d3c-4e2a-964b-59b7884f9812"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(847a4db0-928c-4cda-b847-1e4f51754725,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="2483965f-8319-4075-be1a-f3b4935f0ad8"/>
+                    <attribute id="UUID" type="guid" value="f73fa161-1d5d-4ccb-b661-90c6e28fc63f"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -729,12 +737,13 @@
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Level" type="uint8" value="15"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Eclipse_CosmicLegacy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(847a4db0-928c-4cda-b847-1e4f51754725,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(58ec85bb-6322-4c07-87ac-5ad89b1127e3,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="2483965f-8319-4075-be1a-f3b4935f0ad8"/>
-                    <attribute id="UUID" type="guid" value="f73fa161-1d5d-4ccb-b661-90c6e28fc63f"/>
+                    <attribute id="UUID" type="guid" value="169c6ce5-8866-410a-ba46-b622b28bbe5e"/>
                 </node>
             </children>
         </node>
