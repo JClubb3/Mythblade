@@ -524,6 +524,15 @@
                     <attribute id="UUID" type="guid" value="9ea793e8-69ce-4e26-9373-a6d714d5d10a"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Eclipse_CosmicLegacy"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(58ec85bb-6322-4c07-87ac-5ad89b1127e3,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="2483965f-8319-4075-be1a-f3b4935f0ad8"/>
+                    <attribute id="UUID" type="guid" value="169c6ce5-8866-410a-ba46-b622b28bbe5e"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -737,13 +746,36 @@
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="15"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Eclipse"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_Eclipse_CosmicLegacy"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Fire Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ElementalAdept_Fire"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(58ec85bb-6322-4c07-87ac-5ad89b1127e3,,,,AlwaysPrepared)"/>
-                    <attribute id="TableUUID" type="guid" value="2483965f-8319-4075-be1a-f3b4935f0ad8"/>
-                    <attribute id="UUID" type="guid" value="169c6ce5-8866-410a-ba46-b622b28bbe5e"/>
+                    <attribute id="TableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
+                    <attribute id="UUID" type="guid" value="fad56204-6dde-4d4f-9331-ac04eafb3db0"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Water Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ElementalAdept_Cold"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="d86bd294-75a2-4f2b-8f83-2e56be131a0a"/>
+                    <attribute id="UUID" type="guid" value="12efb0f9-836d-41f1-a6be-5feb6b71d421"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ElementalAdept_Lightning"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
+                    <attribute id="UUID" type="guid" value="99aff9bd-beaa-47c5-8d93-7f14352a9727"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_EarthElementalist_EarthenMastery"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
+                    <attribute id="UUID" type="guid" value="8f4cf137-084f-4b3b-8ebe-b76f3140e55b"/>
                 </node>
             </children>
         </node>
