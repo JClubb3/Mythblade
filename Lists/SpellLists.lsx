@@ -96,7 +96,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="DistortionistLevel3"/>
-                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Zone_Fear"/>
+                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Zone_PsionicBlast"/>
                     <attribute id="UUID" type="guid" value="fd3c10a2-19d4-439a-ab0c-83def8aa6cf6"/>
                 </node>
                 <node id="SpellList">
