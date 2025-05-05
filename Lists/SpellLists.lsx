@@ -437,6 +437,11 @@
                     <attribute id="Spells" type="LSString" value="Teleportation_MYT_ArcaneGate_Eclipse"/>
                     <attribute id="UUID" type="guid" value="58ec85bb-6322-4c07-87ac-5ad89b1127e3"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="FireElemenatlistAspectShiftLevel1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_IceKnife_Fire;"/>
+                    <attribute id="UUID" type="guid" value="6cdcba61-64b2-408a-9caf-35c46533968c"/>
+                </node>
             </children>
         </node>
     </region>

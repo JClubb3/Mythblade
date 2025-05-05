@@ -558,6 +558,14 @@
                     <attribute id="UUID" type="guid" value="eb2ba243-c5c6-4869-9e94-7eaf691ac16f"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Fire Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ElementalAdept_Fire"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
+                    <attribute id="UUID" type="guid" value="fad56204-6dde-4d4f-9331-ac04eafb3db0"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Fire Elementalist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -597,6 +605,14 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(76bacd88-4cc8-4d8e-9e5e-b4988108af9c,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="d86bd294-75a2-4f2b-8f83-2e56be131a0a"/>
                     <attribute id="UUID" type="guid" value="2d7f73f8-e1c5-4f12-a6e7-cb455d422757"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Water Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ElementalAdept_Cold"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="d86bd294-75a2-4f2b-8f83-2e56be131a0a"/>
+                    <attribute id="UUID" type="guid" value="12efb0f9-836d-41f1-a6be-5feb6b71d421"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
@@ -640,6 +656,14 @@
                     <attribute id="UUID" type="guid" value="3c4694b4-dbe0-4cba-97f2-3450c6a66f57"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_EarthElementalist_EarthenMastery"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
+                    <attribute id="UUID" type="guid" value="8f4cf137-084f-4b3b-8ebe-b76f3140e55b"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -679,6 +703,14 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(60c65be6-eeac-4d9b-b92d-6c73c0035037,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
                     <attribute id="UUID" type="guid" value="44c1be41-6f68-4e03-8801-48f1576460d1"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ElementalAdept_Lightning"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
+                    <attribute id="UUID" type="guid" value="99aff9bd-beaa-47c5-8d93-7f14352a9727"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
@@ -746,36 +778,12 @@
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="7"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Fire Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="ElementalAdept_Fire"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Fire Elemenatlist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(6cdcba61-64b2-408a-9caf-35c46533968c,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
-                    <attribute id="UUID" type="guid" value="fad56204-6dde-4d4f-9331-ac04eafb3db0"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="7"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Water Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="ElementalAdept_Cold"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="d86bd294-75a2-4f2b-8f83-2e56be131a0a"/>
-                    <attribute id="UUID" type="guid" value="12efb0f9-836d-41f1-a6be-5feb6b71d421"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="7"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="ElementalAdept_Lightning"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
-                    <attribute id="UUID" type="guid" value="99aff9bd-beaa-47c5-8d93-7f14352a9727"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="7"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_EarthElementalist_EarthenMastery"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
-                    <attribute id="UUID" type="guid" value="8f4cf137-084f-4b3b-8ebe-b76f3140e55b"/>
+                    <attribute id="UUID" type="guid" value="e3f9e520-52ce-4779-9c37-13c11e95993c"/>
                 </node>
             </children>
         </node>
