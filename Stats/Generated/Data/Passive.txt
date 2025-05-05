@@ -478,3 +478,10 @@ data "Description" "hc2799a58gf104g4305g4920g9e0eca44479f;1"
 data "Icon" "Spell_Evocation_SpiritualWeapon_Maul"
 data "Boosts" "IF(MainDamageTypeIs(DamageType.Bludgeoning)):MinimumRollResult(Damage,2);IgnoreResistance(Bludgeoning,Resistant);"
 
+new entry "MYT_FireElementalist_AspectShift"
+type "PassiveData"
+data "DisplayName" "hd62f8345gf06fg7453g1616g4227315d32b7;1"
+data "Description" "h8259d80eg0a04g9f90gb97cg7eb4fac0531d;1"
+data "Icon" "Spell_Evocation_ChromaticOrb_Fire"
+data "Properties" "Highlighted"
+

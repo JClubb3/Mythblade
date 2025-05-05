@@ -447,6 +447,11 @@
                     <attribute id="Spells" type="LSString" value="Zone_LightningBolt_Fire"/>
                     <attribute id="UUID" type="guid" value="1896b12b-cb69-4943-a7ad-ac4c239e389c"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="FireElementalistAspectShiftLevel5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_ConeOfCold_Fire"/>
+                    <attribute id="UUID" type="guid" value="c9c781d7-99fd-4784-b477-6c11932b52ee"/>
+                </node>
             </children>
         </node>
     </region>

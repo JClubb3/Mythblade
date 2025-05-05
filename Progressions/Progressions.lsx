@@ -585,7 +585,7 @@
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Fire Elementalist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(6d74ec0e-f09b-4b98-bf38-0041b9e2b731,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(6d74ec0e-f09b-4b98-bf38-0041b9e2b731,,,,AlwaysPrepared);AddSpells(c9c781d7-99fd-4784-b477-6c11932b52ee)"/>
                     <attribute id="TableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
                     <attribute id="UUID" type="guid" value="752520be-ae8f-4b88-ad51-27923edd20df"/>
                 </node>
@@ -780,8 +780,9 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Fire Elemenatlist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_FireElementalist_AspectShift"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(6cdcba61-64b2-408a-9caf-35c46533968c,,,,AlwaysPrepared);AddSpells(1896b12b-cb69-4943-a7ad-ac4c239e389c,,,,AlwaysPrepared);"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(6cdcba61-64b2-408a-9caf-35c46533968c,,,,AlwaysPrepared);AddSpells(1896b12b-cb69-4943-a7ad-ac4c239e389c);"/>
                     <attribute id="TableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
                     <attribute id="UUID" type="guid" value="e3f9e520-52ce-4779-9c37-13c11e95993c"/>
                 </node>
