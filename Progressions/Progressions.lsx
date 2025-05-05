@@ -636,7 +636,7 @@
                     <attribute id="Name" type="LSString" value="Legacy of the Water Elementalist"/>
                     <attribute id="PassivesAdded" type="LSString" value="MYT_WaterElementalist_AspectShift"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(cdf2ba02-0514-4a19-a0b6-0b20751ab176);"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(cdf2ba02-0514-4a19-a0b6-0b20751ab176);AddSpells(38040cb6-f6c4-4e5f-a3ca-1fc883b84232);"/>
                     <attribute id="TableUUID" type="guid" value="d86bd294-75a2-4f2b-8f83-2e56be131a0a"/>
                     <attribute id="UUID" type="guid" value="9f9bb92a-7b59-4b1b-b5d9-c09eda4cc060"/>
                 </node>
