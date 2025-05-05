@@ -459,7 +459,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel2"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_ScorchingRay_Cold"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_ScorchingRay_Cold"/>
                     <attribute id="UUID" type="guid" value="38040cb6-f6c4-4e5f-a3ca-1fc883b84232"/>
                 </node>
                 <node id="SpellList">
