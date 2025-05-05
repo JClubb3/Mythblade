@@ -485,3 +485,10 @@ data "Description" "h8259d80eg0a04g9f90gb97cg7eb4fac0531d;1"
 data "Icon" "Spell_Evocation_ChromaticOrb_Fire"
 data "Properties" "Highlighted"
 
+new entry "MYT_WaterElementalist_AspectShift"
+type "PassiveData"
+data "DisplayName" "h6a31e4b4g426cgaa28g4694g9ddccb97fc54;1"
+data "Description" "h6a5db8d3g57a7gdbc2g53ccg0e9a627b6f3c;1"
+data "Icon" "Spell_Evocation_ChromaticOrb_Cold"
+data "Properties" "Highlighted"
+
