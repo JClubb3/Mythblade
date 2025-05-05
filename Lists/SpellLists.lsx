@@ -444,7 +444,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="FireElemenatlistAspectShiftLevel3"/>
-                    <attribute id="Spells" type="LSString" value="Zone_LightningBolt_Fire"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_LightningBolt_Fire"/>
                     <attribute id="UUID" type="guid" value="1896b12b-cb69-4943-a7ad-ac4c239e389c"/>
                 </node>
                 <node id="SpellList">
