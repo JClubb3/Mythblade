@@ -439,7 +439,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="FireElemenatlistAspectShiftLevel1"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_IceKnife_Fire;"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_IceKnife_Fire;"/>
                     <attribute id="UUID" type="guid" value="6cdcba61-64b2-408a-9caf-35c46533968c"/>
                 </node>
                 <node id="SpellList">
