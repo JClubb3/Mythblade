@@ -453,14 +453,19 @@
                     <attribute id="UUID" type="guid" value="c9c781d7-99fd-4784-b477-6c11932b52ee"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_BurningHands_Cold"/>
+                    <attribute id="UUID" type="guid" value="cdf2ba02-0514-4a19-a0b6-0b20751ab176"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel2"/>
                     <attribute id="Spells" type="LSString" value="Projectile_ScorchingRay_Cold"/>
                     <attribute id="UUID" type="guid" value="38040cb6-f6c4-4e5f-a3ca-1fc883b84232"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel1"/>
-                    <attribute id="Spells" type="LSString" value="Zone_BurningHands_Cold"/>
-                    <attribute id="UUID" type="guid" value="cdf2ba02-0514-4a19-a0b6-0b20751ab176"/>
+                    <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel3"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_Fireball_Cold"/>
+                    <attribute id="UUID" type="guid" value="16721902-a3c6-4cbc-b406-11d2ae276115"/>
                 </node>
             </children>
         </node>
