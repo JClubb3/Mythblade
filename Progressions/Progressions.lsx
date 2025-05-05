@@ -781,7 +781,7 @@
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Fire Elemenatlist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(6cdcba61-64b2-408a-9caf-35c46533968c,,,,AlwaysPrepared);"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(6cdcba61-64b2-408a-9caf-35c46533968c,,,,AlwaysPrepared);AddSpells(1896b12b-cb69-4943-a7ad-ac4c239e389c,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
                     <attribute id="UUID" type="guid" value="e3f9e520-52ce-4779-9c37-13c11e95993c"/>
                 </node>

@@ -442,6 +442,11 @@
                     <attribute id="Spells" type="LSString" value="Projectile_IceKnife_Fire;"/>
                     <attribute id="UUID" type="guid" value="6cdcba61-64b2-408a-9caf-35c46533968c"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="FireElemenatlistAspectShiftLevel3"/>
+                    <attribute id="Spells" type="LSString" value="Zone_LightningBolt_Fire"/>
+                    <attribute id="UUID" type="guid" value="1896b12b-cb69-4943-a7ad-ac4c239e389c"/>
+                </node>
             </children>
         </node>
     </region>
