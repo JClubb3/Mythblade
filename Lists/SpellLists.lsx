@@ -454,7 +454,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel1"/>
-                    <attribute id="Spells" type="LSString" value="Zone_BurningHands_Cold"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Cold"/>
                     <attribute id="UUID" type="guid" value="cdf2ba02-0514-4a19-a0b6-0b20751ab176"/>
                 </node>
                 <node id="SpellList">
