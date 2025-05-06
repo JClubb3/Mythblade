@@ -492,6 +492,11 @@
                     <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Lightning;Projectile_MYT_IceKnife_Lightning"/>
                     <attribute id="UUID" type="guid" value="ee4604dd-bf49-4820-8f1a-20f8f8e5121b"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="AirElementalistAspectShiftLevel2"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_ScorchingRay_Lightning"/>
+                    <attribute id="UUID" type="guid" value="9d1fb4af-e05c-4c15-87db-03f80c4d3e10"/>
+                </node>
             </children>
         </node>
     </region>
