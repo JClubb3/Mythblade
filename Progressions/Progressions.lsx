@@ -800,7 +800,7 @@
                     <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
                     <attribute id="PassivesAdded" type="LSString" value="MYT_EarthElementalist_AspectShift"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(acdcb68f-582b-4933-a599-a334d8de9d07);AddSpells(2a6e8994-b338-4a4b-b363-d87c5599b428);"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(acdcb68f-582b-4933-a599-a334d8de9d07);AddSpells(2a6e8994-b338-4a4b-b363-d87c5599b428);AddSpells(86172b30-4c7c-4875-9813-efc948c81942);"/>
                     <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
                     <attribute id="UUID" type="guid" value="d155a13b-99fb-45bf-a4b3-405eb0d7096c"/>
                 </node>

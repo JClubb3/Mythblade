@@ -477,6 +477,11 @@
                     <attribute id="Spells" type="LSString" value="Projectile_MYT_ScorchingRay_Earth;"/>
                     <attribute id="UUID" type="guid" value="2a6e8994-b338-4a4b-b363-d87c5599b428"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel3"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_Fireball_Earth;"/>
+                    <attribute id="UUID" type="guid" value="86172b30-4c7c-4875-9813-efc948c81942"/>
+                </node>
             </children>
         </node>
     </region>
