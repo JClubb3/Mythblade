@@ -469,8 +469,13 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel1"/>
-                    <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Earth;"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Earth;Projectile_MYT_IceKnife_Earth"/>
                     <attribute id="UUID" type="guid" value="acdcb68f-582b-4933-a599-a334d8de9d07"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel2"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_ScorchingRay_Earth;"/>
+                    <attribute id="UUID" type="guid" value="2a6e8994-b338-4a4b-b363-d87c5599b428"/>
                 </node>
             </children>
         </node>
