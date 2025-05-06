@@ -489,7 +489,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="AirElementalistAspectShiftLevel1"/>
-                    <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Lightning;"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Lightning;Projectile_MYT_IceKnife_Lightning"/>
                     <attribute id="UUID" type="guid" value="ee4604dd-bf49-4820-8f1a-20f8f8e5121b"/>
                 </node>
             </children>
