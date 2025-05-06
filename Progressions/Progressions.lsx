@@ -759,7 +759,7 @@
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(e5d6b1c6-0895-4efd-b176-81967bf69696,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e5d6b1c6-0895-4efd-b176-81967bf69696,,,,AlwaysPrepared);AddSpells(50297a82-01e5-47a2-a43c-ddff28276e6a);"/>
                     <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
                     <attribute id="UUID" type="guid" value="f37dceed-360d-4cfe-9da5-294000ff10d0"/>
                 </node>

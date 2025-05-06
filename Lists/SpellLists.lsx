@@ -502,6 +502,11 @@
                     <attribute id="Spells" type="LSString" value="Projectile_MYT_Fireball_Lightning"/>
                     <attribute id="UUID" type="guid" value="22011c62-e016-48c6-a4a0-1cd3ccf86b68"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="AirElementalistAspectShiftLevel5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_ConeOfCold_Lightning"/>
+                    <attribute id="UUID" type="guid" value="50297a82-01e5-47a2-a43c-ddff28276e6a"/>
+                </node>
             </children>
         </node>
     </region>
