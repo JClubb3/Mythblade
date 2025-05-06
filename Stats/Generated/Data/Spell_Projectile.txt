@@ -102,6 +102,7 @@ data "SpellFail" "TARGET:AOE:IF(not SavingThrow(Ability.Dexterity, SourceSpellDC
 data "DescriptionParams" "DealDamage(1d10,Piercing);DealDamage(8d6,Fire)"
 data "ExtraDescriptionParams" "DealDamage(1d10,Piercing);DealDamage(8d6,Fire)"
 data "TooltipDamageList" "DealDamage(1d10,Piercing);DealDamage(8d6,Fire)"
+data "PowerLevel" "7"
 
 new entry "Projectile_MYT_IceKnife_Fire_8"
 type "SpellData"
@@ -112,6 +113,7 @@ data "SpellFail" "TARGET:AOE:IF(not SavingThrow(Ability.Dexterity, SourceSpellDC
 data "DescriptionParams" "DealDamage(1d10,Piercing);DealDamage(9d6,Fire)"
 data "ExtraDescriptionParams" "DealDamage(1d10,Piercing);DealDamage(9d6,Fire)"
 data "TooltipDamageList" "DealDamage(1d10,Piercing);DealDamage(9d6,Fire)"
+data "PowerLevel" "8"
 
 new entry "Projectile_MYT_ScorchingRay_Cold"
 type "SpellData"
@@ -372,6 +374,7 @@ data "SpellSuccess" "TARGET:DealDamage(1d10,Piercing);TARGET:AOE:IF(not SavingTh
 data "DescriptionParams" "DealDamage(1d10,Piercing);DealDamage(8d6,Bludgeoning)"
 data "ExtraDescriptionParams" "DealDamage(1d10,Piercing);DealDamage(8d6,Bludgeoning)"
 data "TooltipDamageList" "DealDamage(1d10,Piercing);DealDamage(8d6,Bludgeoning)"
+data "PowerLevel" "7"
 
 new entry "Projectile_MYT_IceKnife_Earth_8"
 type "SpellData"
@@ -381,6 +384,7 @@ data "SpellSuccess" "TARGET:DealDamage(1d10,Piercing);TARGET:AOE:IF(not SavingTh
 data "DescriptionParams" "DealDamage(1d10,Piercing);DealDamage(9d6,Bludgeoning)"
 data "ExtraDescriptionParams" "DealDamage(1d10,Piercing);DealDamage(9d6,Bludgeoning)"
 data "TooltipDamageList" "DealDamage(1d10,Piercing);DealDamage(9d6,Bludgeoning)"
+data "PowerLevel" "8"
 
 new entry "Projectile_MYT_ScorchingRay_Earth"
 type "SpellData"

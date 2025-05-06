@@ -487,6 +487,11 @@
                     <attribute id="Spells" type="LSString" value="Zone_MYT_ConeOfCold_Earth;"/>
                     <attribute id="UUID" type="guid" value="8779271c-2d9b-4c1c-8042-d344a133c222"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="AirElementalistAspectShiftLevel1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Lightning;"/>
+                    <attribute id="UUID" type="guid" value="ee4604dd-bf49-4820-8f1a-20f8f8e5121b"/>
+                </node>
             </children>
         </node>
     </region>
