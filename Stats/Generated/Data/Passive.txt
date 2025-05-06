@@ -492,3 +492,9 @@ data "Description" "h6a5db8d3g57a7gdbc2g53ccg0e9a627b6f3c;1"
 data "Icon" "Spell_Evocation_ChromaticOrb_Cold"
 data "Properties" "Highlighted"
 
+new entry "MYT_EarthElementalist_AspectShift"
+type "PassiveData"
+using "MYT_FireElementalist_AspectShift"
+data "Description" "h387325ecg0aa5ga4bdgad92g21f348211362;1"
+data "Icon" "Spell_Evocation_ChromaticOrb_Acid"
+

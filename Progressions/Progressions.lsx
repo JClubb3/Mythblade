@@ -795,6 +795,15 @@
                     <attribute id="TableUUID" type="guid" value="3e7daade-1a01-48d7-a27e-629b33247646"/>
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
                 </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_EarthElementalist_AspectShift"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(acdcb68f-582b-4933-a599-a334d8de9d07);"/>
+                    <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
+                    <attribute id="UUID" type="guid" value="d155a13b-99fb-45bf-a4b3-405eb0d7096c"/>
+                </node>
             </children>
         </node>
     </region>
