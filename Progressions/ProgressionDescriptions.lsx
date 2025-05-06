@@ -25,21 +25,6 @@
                     <attribute id="UUID" type="guid" value="f1dcfc2b-cc46-437b-b4f8-678f34ed6dee"/>
                 </node>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="h0326b999gc234ga9e7g5bb5g422f179d730d" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hf6aefc02g8083g60cdgc697g68da6e4d96fc" version="3"/>
-                    <attribute id="ProgressionTableId" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
-                    <attribute id="SelectorId" type="FixedString" value="MYT_SwordmageSpells"/>
-                    <attribute id="Type" type="FixedString" value="Mythblade"/>
-                    <attribute id="UUID" type="guid" value="73c5f9c3-6679-4ec4-b764-4123af487979"/>
-                </node>
-                <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="h06f412ceg969cg524dgee0bg160c31a3d72e" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h1a6a5af7g97b3g0aaagbb25gb6eef760c438" version="1"/>
-                    <attribute id="ProgressionTableId" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
-                    <attribute id="Type" type="FixedString" value="Mythblade"/>
-                    <attribute id="UUID" type="guid" value="51f40cd2-e0c0-4de2-96c8-c3e9e72db3ee"/>
-                </node>
-                <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="hb87d0951gfee5g21e1g5c71g91b30e442fdb" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h152bb987g6366g3efbg3cf5g43d83df40275" version="1"/>
                     <attribute id="ParamMatch" type="FixedString" value="0:SpellSlot;1:1"/>
@@ -54,6 +39,21 @@
                     <attribute id="ProgressionTableId" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
                     <attribute id="Type" type="FixedString" value="ActionResource"/>
                     <attribute id="UUID" type="guid" value="49c67a74-2f74-4b64-8812-22f0a9b5fa5c"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h06f412ceg969cg524dgee0bg160c31a3d72e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1a6a5af7g97b3g0aaagbb25gb6eef760c438" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
+                    <attribute id="Type" type="FixedString" value="Mythblade"/>
+                    <attribute id="UUID" type="guid" value="51f40cd2-e0c0-4de2-96c8-c3e9e72db3ee"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h0326b999gc234ga9e7g5bb5g422f179d730d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf6aefc02g8083g60cdgc697g68da6e4d96fc" version="3"/>
+                    <attribute id="ProgressionTableId" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
+                    <attribute id="SelectorId" type="FixedString" value="MYT_SwordmageSpells"/>
+                    <attribute id="Type" type="FixedString" value="Mythblade"/>
+                    <attribute id="UUID" type="guid" value="73c5f9c3-6679-4ec4-b764-4123af487979"/>
                 </node>
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="hf7c87c9eg5146ga53cg7fafg6913e3724aa4" version="1"/>
@@ -118,6 +118,38 @@
                     <attribute id="SelectorId" type="FixedString" value="MYT_AirElementalistSpells"/>
                     <attribute id="Type" type="FixedString" value="Mythblade"/>
                     <attribute id="UUID" type="guid" value="70481583-890e-4623-a555-41faa70b039a"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h601b5bafg02c7g6b58g6df1gc9c47f8240c1" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h660c01dbgdd57g1521g24eeg8b847d95c74c" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
+                    <attribute id="SelectorId" type="FixedString" value="MYT_AspectShiftFire"/>
+                    <attribute id="Type" type="FixedString" value="Mythblade"/>
+                    <attribute id="UUID" type="guid" value="3956ea91-a187-4c93-b79a-05e66f74b9cd"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="ha69fe5e4gc5cdg02f9g11a2g4845a2c427e7" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h75b12898gad62g66f2gb628gda0bc88c30e8" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="d86bd294-75a2-4f2b-8f83-2e56be131a0a"/>
+                    <attribute id="SelectorId" type="FixedString" value="MYT_AspectShiftWater"/>
+                    <attribute id="Type" type="FixedString" value="Mythblade"/>
+                    <attribute id="UUID" type="guid" value="4e63da03-d90f-482d-bb44-ea632f4c3ba4"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h1bd1d89bg461fg7f01g0cfegf8e130a9e3f5" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h653bf1dag4dd4gc54ag40e2gecb8805dae48" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
+                    <attribute id="SelectorId" type="FixedString" value="MYT_AspectShiftEarth"/>
+                    <attribute id="Type" type="FixedString" value="Mythblade"/>
+                    <attribute id="UUID" type="guid" value="29e04fbb-c03c-4cd2-9342-d118239ac007"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h983fabb4g08e0g6a30g4943g85ed0eed2ea9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h266d49adg9f58gd87egac6cgc70d957f2121" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
+                    <attribute id="SelectorId" type="FixedString" value="MYT_AspectShiftAir"/>
+                    <attribute id="Type" type="FixedString" value="Mythblade"/>
+                    <attribute id="UUID" type="guid" value="ed565be8-b778-434c-b989-9147fb75ffd6"/>
                 </node>
             </children>
         </node>
