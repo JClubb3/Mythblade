@@ -809,7 +809,7 @@
                     <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
                     <attribute id="PassivesAdded" type="LSString" value="MYT_AirElementalist_AspectShift"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(ee4604dd-bf49-4820-8f1a-20f8f8e5121b);AddSpells(9d1fb4af-e05c-4c15-87db-03f80c4d3e10);"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ee4604dd-bf49-4820-8f1a-20f8f8e5121b);AddSpells(9d1fb4af-e05c-4c15-87db-03f80c4d3e10);AddSpells(22011c62-e016-48c6-a4a0-1cd3ccf86b68);"/>
                     <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
                     <attribute id="UUID" type="guid" value="0542ec61-4f71-42a6-950d-4f0040b3628e"/>
                 </node>
