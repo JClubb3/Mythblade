@@ -482,6 +482,11 @@
                     <attribute id="Spells" type="LSString" value="Projectile_MYT_Fireball_Earth;Zone_MYT_LightningBolt_Earth"/>
                     <attribute id="UUID" type="guid" value="86172b30-4c7c-4875-9813-efc948c81942"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_ConeOfCold_Earth;"/>
+                    <attribute id="UUID" type="guid" value="8779271c-2d9b-4c1c-8042-d344a133c222"/>
+                </node>
             </children>
         </node>
     </region>

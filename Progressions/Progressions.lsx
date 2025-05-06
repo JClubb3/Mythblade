@@ -701,7 +701,7 @@
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(587f8b15-0336-419c-942c-9deb144e1abc,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(587f8b15-0336-419c-942c-9deb144e1abc,,,,AlwaysPrepared);AddSpells(8779271c-2d9b-4c1c-8042-d344a133c222);"/>
                     <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
                     <attribute id="UUID" type="guid" value="da122f4a-bc32-498a-b329-c5688d551773"/>
                 </node>
