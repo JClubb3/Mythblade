@@ -437,6 +437,76 @@
                     <attribute id="Spells" type="LSString" value="Teleportation_MYT_ArcaneGate_Eclipse"/>
                     <attribute id="UUID" type="guid" value="58ec85bb-6322-4c07-87ac-5ad89b1127e3"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="FireElemenatlistAspectShiftLevel1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_IceKnife_Fire;"/>
+                    <attribute id="UUID" type="guid" value="6cdcba61-64b2-408a-9caf-35c46533968c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="FireElemenatlistAspectShiftLevel3"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_LightningBolt_Fire"/>
+                    <attribute id="UUID" type="guid" value="1896b12b-cb69-4943-a7ad-ac4c239e389c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="FireElementalistAspectShiftLevel5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_ConeOfCold_Fire"/>
+                    <attribute id="UUID" type="guid" value="c9c781d7-99fd-4784-b477-6c11932b52ee"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Cold"/>
+                    <attribute id="UUID" type="guid" value="cdf2ba02-0514-4a19-a0b6-0b20751ab176"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel2"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_ScorchingRay_Cold"/>
+                    <attribute id="UUID" type="guid" value="38040cb6-f6c4-4e5f-a3ca-1fc883b84232"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel3"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_Fireball_Cold;Zone_MYT_LightingBolt_Cold"/>
+                    <attribute id="UUID" type="guid" value="16721902-a3c6-4cbc-b406-11d2ae276115"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Earth;Projectile_MYT_IceKnife_Earth"/>
+                    <attribute id="UUID" type="guid" value="acdcb68f-582b-4933-a599-a334d8de9d07"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel2"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_ScorchingRay_Earth;"/>
+                    <attribute id="UUID" type="guid" value="2a6e8994-b338-4a4b-b363-d87c5599b428"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel3"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_Fireball_Earth;Zone_MYT_LightningBolt_Earth"/>
+                    <attribute id="UUID" type="guid" value="86172b30-4c7c-4875-9813-efc948c81942"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_ConeOfCold_Earth;"/>
+                    <attribute id="UUID" type="guid" value="8779271c-2d9b-4c1c-8042-d344a133c222"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="AirElementalistAspectShiftLevel1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Lightning;Projectile_MYT_IceKnife_Lightning"/>
+                    <attribute id="UUID" type="guid" value="ee4604dd-bf49-4820-8f1a-20f8f8e5121b"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="AirElementalistAspectShiftLevel2"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_ScorchingRay_Lightning"/>
+                    <attribute id="UUID" type="guid" value="9d1fb4af-e05c-4c15-87db-03f80c4d3e10"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="AirElementalistAspetShiftLevel3"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MYT_Fireball_Lightning"/>
+                    <attribute id="UUID" type="guid" value="22011c62-e016-48c6-a4a0-1cd3ccf86b68"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="AirElementalistAspectShiftLevel5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_MYT_ConeOfCold_Lightning"/>
+                    <attribute id="UUID" type="guid" value="50297a82-01e5-47a2-a43c-ddff28276e6a"/>
+                </node>
             </children>
         </node>
     </region>
