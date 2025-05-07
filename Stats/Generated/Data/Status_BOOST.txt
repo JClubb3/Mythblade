@@ -589,5 +589,6 @@ new entry "MYT_EXTRAATTACK_REMOVER"
 type "StatusData"
 data "StatusType" "BOOST"
 data "StackId" "MYT_EXTRAATTACK_REMOVER"
+data "StatusPropertyFlags" "ExcludeFromPortraitRendering;DisableImmunityOverhead;DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 data "OnRemoveFunctors" "RemoveStatus(EXTRA_ATTACK);"
 
