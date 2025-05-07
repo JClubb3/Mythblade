@@ -504,3 +504,9 @@ using "MYT_FireElementalist_AspectShift"
 data "Description" "hf75b7abcg6092gbeecg77bcga14599367b28;1"
 data "Icon" "Spell_Evocation_ChromaticOrb_Lightning"
 
+new entry "MYT_UnendingLegacy"
+type "PassiveData"
+using "StarryForm_Dragon"
+data "DisplayName" "h7d7d1155g9113g75feg743cg67a52a2d0d3d;1"
+data "Description" "habbc9304g9003g34e1gaf06g0e34ce40fbca;2"
+

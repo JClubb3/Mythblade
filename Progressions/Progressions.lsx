@@ -126,6 +126,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Mythblade"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_UnendingLegacy"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="f9edc4cf-68fd-4f91-95a3-e86b0737bf65"/>
                     <attribute id="UUID" type="guid" value="757455f8-781f-44a5-bab3-3c38b7d46258"/>
@@ -748,6 +749,15 @@
                     <attribute id="UUID" type="guid" value="218526cf-6060-456d-9aed-e215d540b941"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_AirElementalist_AspectShift"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ee4604dd-bf49-4820-8f1a-20f8f8e5121b,MYT_AspectShiftAir);AddSpells(9d1fb4af-e05c-4c15-87db-03f80c4d3e10,MYT_AspectShiftAir);AddSpells(22011c62-e016-48c6-a4a0-1cd3ccf86b68,MYT_AspectShiftAir);"/>
+                    <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
+                    <attribute id="UUID" type="guid" value="0542ec61-4f71-42a6-950d-4f0040b3628e"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -803,15 +813,6 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(7a8c98ba-cf77-4f27-97fe-e37c58cde327,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="3e7daade-1a01-48d7-a27e-629b33247646"/>
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="11"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_AirElementalist_AspectShift"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(ee4604dd-bf49-4820-8f1a-20f8f8e5121b,MYT_AspectShiftAir);AddSpells(9d1fb4af-e05c-4c15-87db-03f80c4d3e10,MYT_AspectShiftAir);AddSpells(22011c62-e016-48c6-a4a0-1cd3ccf86b68,MYT_AspectShiftAir);"/>
-                    <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
-                    <attribute id="UUID" type="guid" value="0542ec61-4f71-42a6-950d-4f0040b3628e"/>
                 </node>
             </children>
         </node>
