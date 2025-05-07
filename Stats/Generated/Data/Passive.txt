@@ -510,3 +510,8 @@ using "StarryForm_Dragon"
 data "DisplayName" "h7d7d1155g9113g75feg743cg67a52a2d0d3d;1"
 data "Description" "habbc9304g9003g34e1gaf06g0e34ce40fbca;2"
 
+new entry "MYT_BladecastCharges"
+type "PassiveData"
+using "MYT_DeathKnight_VisionOfDeathCharges"
+data "Boosts" "ActionResource(BladecastCharges,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(BladecastCharges,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(BladecastCharges,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(BladecastCharges,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(BladecastCharges,1,0);"
+

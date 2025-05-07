@@ -28,6 +28,14 @@
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
                     <attribute id="UUID" type="guid" value="de90ca43-e190-4500-8aae-55d398618bf7"/>
                 </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="hf84c0d67g44edgb555g8092g967d0aad2e89" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h19ac6090g6013g8ff8g96f1g104dea460bf2" version="1"/>
+                    <attribute id="Name" type="FixedString" value="BladecastCharges"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="baa606eb-5206-425c-a00f-fcb45675305b"/>
+                </node>
             </children>
         </node>
     </region>
