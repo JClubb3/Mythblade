@@ -153,7 +153,7 @@ data "SpellSuccess" "DealDamage(max(1,MainMeleeWeapon), MainMeleeWeaponDamageTyp
 data "SpellFail" "ApplyStatus(SELF, MYT_EXTRAATTACK_REMOVER, 100, 0);"
 data "Icon" "Action_Mag_FlamingBlade"
 data "DisplayName" "hcaf922b6g54feg0b4cg40beg0a7a86101a49;1"
-data "Description" "h353343c0g60ddgf6abg20aege00c360b2cc0;2"
+data "Description" "h353343c0g60ddgf6abg20aege00c360b2cc0;4"
 data "PrepareSound" "Action_Prepare_Item_FlamingBlade"
 data "PrepareLoopSound" "Action_Loop_Item_FlamingBlade"
 data "CastSound" "Action_Cast_Item_FlamingBlade"

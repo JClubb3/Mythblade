@@ -513,6 +513,8 @@ data "Description" "habbc9304g9003g34e1gaf06g0e34ce40fbca;2"
 new entry "MYT_BladecastCharges"
 type "PassiveData"
 using "MYT_DeathKnight_VisionOfDeathCharges"
+data "DisplayName" "h2e2d4816gee02g299cgb1e6gbf7b86de1976;1"
+data "Description" "hd84addbagc5f4g09c2gf26bg67238b9bb148;1"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(BladecastCharges,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(BladecastCharges,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(BladecastCharges,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(BladecastCharges,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(BladecastCharges,1,0);UnlockSpell(Target_MYT_Bladecast);"
 
