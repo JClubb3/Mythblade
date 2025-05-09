@@ -7,82 +7,82 @@
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="MythbladeCantrips"/>
                     <attribute id="Spells" type="LSString" value="Target_ShockingGrasp;Target_BoomingBlade_ClassSpell;Projectile_FireBolt;Target_GreenFlameBlade;Shout_SwordBurst;Target_LightningLure"/>
-                    <attribute id="UUID" type="guid" value="ab438769-ce78-4fe1-b0d7-08d3fd8cc486"/>
+                    <attribute id="UUID" type="guid" value="031bbc50-7642-4335-a835-f4e055af832e"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="MythbladeLevel1"/>
                     <attribute id="Spells" type="LSString" value="Shout_AbsorbElementsSpell;Zone_BurningHands;Shout_ExpeditiousRetreat;Target_Jump;Shout_FeatherFall;Target_FogCloud;Target_Heroism;Projectile_IceKnife;Target_ProtectionFromEvilAndGood;Shout_Shield_Wizard;Zone_Thunderwave;Shout_ZephyrStrike;"/>
-                    <attribute id="UUID" type="guid" value="8b524a4d-b30c-4081-b152-7fcbf6500a64"/>
+                    <attribute id="UUID" type="guid" value="c545a52c-c6b9-4429-bb78-fff76d8a55c8"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="MythbladeLevel2"/>
                     <attribute id="Spells" type="LSString" value="Zone_AganazzarScorcher;Target_ArcaneLock;Target_Blindness;Shout_Blur;Target_CalmEmotions;Target_CloudOfDaggers;Target_Darkvision;Target_EnhanceAbility;Target_FlamingSphere;Target_HeatMetal;Target_HoldPerson;Target_Knock;Target_MagicWeapon;Target_MistyStep;Target_PhantasmalForce;Projectile_ScorchingRay;Shout_ShadowBlade_Class;Target_Silence;Target_Web;"/>
-                    <attribute id="UUID" type="guid" value="c861a7fc-a995-4ac0-b074-85ba1fe68a0a"/>
+                    <attribute id="UUID" type="guid" value="4e828087-2b4c-41eb-81d0-3e9320ffaa54"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="MythbladeLevel3"/>
                     <attribute id="Spells" type="LSString" value="Shout_Blink;Target_Counterspell;Target_ElementalWeapon;Projectile_Fireball;Target_Haste;Zone_LightningBolt;Target_ProtectionFromEnergy;Target_RemoveCurse;Target_Slow;Shout_SpiritShroud;Teleportation_ThunderStep"/>
-                    <attribute id="UUID" type="guid" value="fdd984aa-5de6-4fe6-8d01-e7b2bd150e3c"/>
+                    <attribute id="UUID" type="guid" value="f67f4970-8325-493e-970a-8395e9870080"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="MythbladeLevel4"/>
                     <attribute id="Spells" type="LSString" value="Target_ArcaneEyeNew;Target_Banishment;Teleportation_DimensionDoor;Target_ElementalBane;Shout_FireShield;Target_FreedomOfMovement;Target_ResilientSphere;Target_PhantasmalKiller;Target_Stoneskin;Target_StormSphere"/>
-                    <attribute id="UUID" type="guid" value="0e3df499-6850-4c33-b294-ab923ad81b30"/>
+                    <attribute id="UUID" type="guid" value="de826a03-ec15-4966-af9c-549a21445f09"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="MythbladeLevel5"/>
                     <attribute id="Spells" type="LSString" value="Target_BigbyHand;Zone_ConeOfCold;Shout_DestructiveWave;Target_DominatePerson;Target_HoldMonster;Target_PlanarBinding"/>
-                    <attribute id="UUID" type="guid" value="8226caef-dba6-4649-aadb-3f61b7d1a640"/>
+                    <attribute id="UUID" type="guid" value="f57fc2ea-2ff9-4e69-a6d9-c9ebd76bbe8e"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="SwordmageLevel1"/>
                     <attribute id="Spells" type="LSString" value="Target_CompelledDuel;Shout_Shield_Wizard"/>
-                    <attribute id="UUID" type="guid" value="e3cddc0a-ab66-4063-a904-7ba49fe08d09"/>
+                    <attribute id="UUID" type="guid" value="25ff47fe-97b5-40f9-aa69-be53613806d8"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="SwordmageLevel2"/>
                     <attribute id="Spells" type="LSString" value="Shout_Blur;Target_WardingBond"/>
-                    <attribute id="UUID" type="guid" value="b81ae3fe-f17a-44ca-89b6-8438c9e01dcb"/>
+                    <attribute id="UUID" type="guid" value="f8f324c6-e927-48ef-a81c-45c8e86b315f"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="SwordmageLevel3"/>
                     <attribute id="Spells" type="LSString" value="Target_Counterspell;Target_ProtectionFromEnergy"/>
-                    <attribute id="UUID" type="guid" value="55373dd0-1f43-4d04-88e9-ac35d8d88cb0"/>
+                    <attribute id="UUID" type="guid" value="957f318f-aaac-4e75-bbbe-ddd0ccec92ff"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="SwordmageLevel4"/>
                     <attribute id="Spells" type="LSString" value="Target_Banishment;Target_Stoneskin"/>
-                    <attribute id="UUID" type="guid" value="b37cb888-eb74-4b42-a076-d1be7699f32e"/>
+                    <attribute id="UUID" type="guid" value="5154caa4-896a-407c-a6bc-c9a3e64e9d18"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="SwordmageLevel5"/>
                     <attribute id="Spells" type="LSString" value="Projectile_Smite_Banishing_Container;Wall_WallOfStone"/>
-                    <attribute id="UUID" type="guid" value="77e0dfff-52c1-4582-b53a-9a930271d03f"/>
+                    <attribute id="UUID" type="guid" value="2543a175-5ab2-4f0e-bddc-a23522db2447"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="DeathKnightLevel1"/>
                     <attribute id="Spells" type="LSString" value="Shout_ArmorOfAgathys;Target_InflictWounds"/>
-                    <attribute id="UUID" type="guid" value="2ddc1878-c606-4304-b6e7-262a1d6ffe9b"/>
+                    <attribute id="UUID" type="guid" value="9f82022a-a65b-403d-9973-0d66806db276"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="DeathKnightLevel2"/>
                     <attribute id="Spells" type="LSString" value="Target_Darkness;Projectile_RayOfEnfeeblement"/>
-                    <attribute id="UUID" type="guid" value="d3753371-2760-45c5-95a3-4018cf05b255"/>
+                    <attribute id="UUID" type="guid" value="c72a6441-a406-49d1-a839-c854e9d30dbb"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="DeathKnightLevel3"/>
                     <attribute id="Spells" type="LSString" value="Target_AnimateDead;Target_VampiricTouch"/>
-                    <attribute id="UUID" type="guid" value="c4647069-a500-4ca5-8c65-93eba299b2fa"/>
+                    <attribute id="UUID" type="guid" value="23f812c5-44d9-4b3e-8581-1d9683cd1ff4"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="DeathKnightLevel4"/>
                     <attribute id="Spells" type="LSString" value="Target_DeathWard;Target_PhantasmalKiller"/>
-                    <attribute id="UUID" type="guid" value="dbe12e4f-9283-49b1-aebd-a23acc2fbeb6"/>
+                    <attribute id="UUID" type="guid" value="da79a295-8e8b-41d6-afd3-5e829bd2139d"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="DeathKnightLevel5"/>
                     <attribute id="Spells" type="LSString" value="Target_DanseMacabre_Container;Shout_DestructiveWave"/>
-                    <attribute id="UUID" type="guid" value="450ed853-fcb6-4aed-b67f-435156a2242a"/>
+                    <attribute id="UUID" type="guid" value="a6780095-bcb3-4b7e-9dfb-63fd61ddae6f"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="DistortionistLevel1"/>
@@ -363,17 +363,17 @@
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="SwordmageCantrip"/>
                     <attribute id="Spells" type="LSString" value="Target_MageHand"/>
-                    <attribute id="UUID" type="guid" value="483ce01b-c0dd-4766-8979-958e16258e60"/>
+                    <attribute id="UUID" type="guid" value="0d4040bc-0948-46f0-a64c-bba6cae691a8"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="DistortionistCantrip"/>
                     <attribute id="Spells" type="LSString" value="Target_MinorIllusion"/>
-                    <attribute id="UUID" type="guid" value="80ba8a78-e0ab-4f84-b9bb-db9e96733284"/>
+                    <attribute id="UUID" type="guid" value="90274144-b0a7-41cb-b084-d770a9237443"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="DeathKnightCantrip"/>
                     <attribute id="Spells" type="LSString" value="Target_TollTheDead"/>
-                    <attribute id="UUID" type="guid" value="50f53298-a290-4f25-b1a7-08d9b65bac31"/>
+                    <attribute id="UUID" type="guid" value="7a93bcf7-0c2c-4185-acd2-ce3eac7a66b3"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="FireElementalistCantrip"/>
@@ -409,7 +409,7 @@
                     <attribute id="MergedInto" type="guid" value="29c9cf78-3bd6-47dc-88b4-2dce54710124"/>
                     <attribute id="Name" type="FixedString" value="DeathKnightNecromanticLegacy"/>
                     <attribute id="Spells" type="LSString" value="Shout_MYT_NecromanticLegacy"/>
-                    <attribute id="UUID" type="guid" value="601b5429-1bdc-4090-850e-6e0e29b6204d"/>
+                    <attribute id="UUID" type="guid" value="7303e9c1-befb-4caa-80ed-7d001b6fdd8b"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="DeathKnightNecromanticLegacy2"/>
@@ -440,72 +440,72 @@
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="FireElemenatlistAspectShiftLevel1"/>
                     <attribute id="Spells" type="LSString" value="Projectile_MYT_IceKnife_Fire;"/>
-                    <attribute id="UUID" type="guid" value="6cdcba61-64b2-408a-9caf-35c46533968c"/>
+                    <attribute id="UUID" type="guid" value="ac53c245-ec64-4e98-a968-e2dc63931ba5"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="FireElemenatlistAspectShiftLevel3"/>
                     <attribute id="Spells" type="LSString" value="Zone_MYT_LightningBolt_Fire"/>
-                    <attribute id="UUID" type="guid" value="1896b12b-cb69-4943-a7ad-ac4c239e389c"/>
+                    <attribute id="UUID" type="guid" value="55e2f840-04ba-4eea-bedb-af747658e9ff"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="FireElementalistAspectShiftLevel5"/>
                     <attribute id="Spells" type="LSString" value="Zone_MYT_ConeOfCold_Fire"/>
-                    <attribute id="UUID" type="guid" value="c9c781d7-99fd-4784-b477-6c11932b52ee"/>
+                    <attribute id="UUID" type="guid" value="730d7a52-0ad7-4b56-9757-48aaa9c8a36f"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel1"/>
                     <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Cold"/>
-                    <attribute id="UUID" type="guid" value="cdf2ba02-0514-4a19-a0b6-0b20751ab176"/>
+                    <attribute id="UUID" type="guid" value="100aea1e-a316-4076-8bb5-80656be0c2d0"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel2"/>
                     <attribute id="Spells" type="LSString" value="Projectile_MYT_ScorchingRay_Cold"/>
-                    <attribute id="UUID" type="guid" value="38040cb6-f6c4-4e5f-a3ca-1fc883b84232"/>
+                    <attribute id="UUID" type="guid" value="c6711d05-4db2-435a-a846-a0348c9980b8"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="WaterElementalistAspectShiftLevel3"/>
                     <attribute id="Spells" type="LSString" value="Projectile_MYT_Fireball_Cold;Zone_MYT_LightingBolt_Cold"/>
-                    <attribute id="UUID" type="guid" value="16721902-a3c6-4cbc-b406-11d2ae276115"/>
+                    <attribute id="UUID" type="guid" value="866762cc-d08c-451e-a98f-0e64e3c117d7"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel1"/>
                     <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Earth;Projectile_MYT_IceKnife_Earth"/>
-                    <attribute id="UUID" type="guid" value="acdcb68f-582b-4933-a599-a334d8de9d07"/>
+                    <attribute id="UUID" type="guid" value="f64a50af-2e4e-411e-8e0d-a6a72b98b9c3"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel2"/>
                     <attribute id="Spells" type="LSString" value="Projectile_MYT_ScorchingRay_Earth;"/>
-                    <attribute id="UUID" type="guid" value="2a6e8994-b338-4a4b-b363-d87c5599b428"/>
+                    <attribute id="UUID" type="guid" value="12ccf202-af8d-4bb4-bf9e-387986594059"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel3"/>
                     <attribute id="Spells" type="LSString" value="Projectile_MYT_Fireball_Earth;Zone_MYT_LightningBolt_Earth"/>
-                    <attribute id="UUID" type="guid" value="86172b30-4c7c-4875-9813-efc948c81942"/>
+                    <attribute id="UUID" type="guid" value="0f1e6886-afde-45de-9830-f2ffe9b0f9af"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="EarthElementalistAspectShiftLevel5"/>
                     <attribute id="Spells" type="LSString" value="Zone_MYT_ConeOfCold_Earth;"/>
-                    <attribute id="UUID" type="guid" value="8779271c-2d9b-4c1c-8042-d344a133c222"/>
+                    <attribute id="UUID" type="guid" value="f40f3bc4-26e6-48c6-b582-11802049d7c5"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="AirElementalistAspectShiftLevel1"/>
                     <attribute id="Spells" type="LSString" value="Zone_MYT_BurningHands_Lightning;Projectile_MYT_IceKnife_Lightning"/>
-                    <attribute id="UUID" type="guid" value="ee4604dd-bf49-4820-8f1a-20f8f8e5121b"/>
+                    <attribute id="UUID" type="guid" value="3677d6a2-7316-455b-b28a-c764fbcb7cda"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="AirElementalistAspectShiftLevel2"/>
                     <attribute id="Spells" type="LSString" value="Projectile_MYT_ScorchingRay_Lightning"/>
-                    <attribute id="UUID" type="guid" value="9d1fb4af-e05c-4c15-87db-03f80c4d3e10"/>
+                    <attribute id="UUID" type="guid" value="4472a816-562f-4ae3-91dc-0bbbc5b72bf6"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="AirElementalistAspetShiftLevel3"/>
                     <attribute id="Spells" type="LSString" value="Projectile_MYT_Fireball_Lightning"/>
-                    <attribute id="UUID" type="guid" value="22011c62-e016-48c6-a4a0-1cd3ccf86b68"/>
+                    <attribute id="UUID" type="guid" value="61aeda69-31c9-456e-bc23-529b35eb2fea"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="AirElementalistAspectShiftLevel5"/>
                     <attribute id="Spells" type="LSString" value="Zone_MYT_ConeOfCold_Lightning"/>
-                    <attribute id="UUID" type="guid" value="50297a82-01e5-47a2-a43c-ddff28276e6a"/>
+                    <attribute id="UUID" type="guid" value="a8e5b9f9-9d3c-4bea-a83e-3e990a19eb72"/>
                 </node>
             </children>
         </node>

@@ -48,12 +48,12 @@
                     <attribute id="UUID" type="guid" value="51f40cd2-e0c0-4de2-96c8-c3e9e72db3ee"/>
                 </node>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="h0326b999gc234ga9e7g5bb5g422f179d730d" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hf6aefc02g8083g60cdgc697g68da6e4d96fc" version="3"/>
+                    <attribute id="Description" type="TranslatedString" handle="h0326b999gc234ga9e7g5bb5g422f179d730d" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf6aefc02g8083g60cdgc697g68da6e4d96fc" version="4"/>
                     <attribute id="ProgressionTableId" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
                     <attribute id="SelectorId" type="FixedString" value="MYT_SwordmageSpells"/>
                     <attribute id="Type" type="FixedString" value="Mythblade"/>
-                    <attribute id="UUID" type="guid" value="73c5f9c3-6679-4ec4-b764-4123af487979"/>
+                    <attribute id="UUID" type="guid" value="f9b55115-c078-45d7-8da6-c96d252a3c3e"/>
                 </node>
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="hf7c87c9eg5146ga53cg7fafg6913e3724aa4" version="1"/>

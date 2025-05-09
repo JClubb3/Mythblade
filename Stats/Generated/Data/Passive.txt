@@ -518,3 +518,11 @@ data "Description" "hd84addbagc5f4g09c2gf26bg67238b9bb148;1"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(BladecastCharges,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(BladecastCharges,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(BladecastCharges,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(BladecastCharges,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(BladecastCharges,1,0);UnlockSpell(Target_MYT_Bladecast);"
 
+new entry "MYT_LegacyAugmentation"
+type "PassiveData"
+data "DisplayName" "h0d2b2c96g38bbgfbffg806fgac1ed0e35c67;2"
+data "Description" "heb1bb1bage981g8602gdba3gf9983b528313;2"
+data "Icon" "Spell_New_TensersTransformation"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Shout_MYT_TensersTransformation);"
+

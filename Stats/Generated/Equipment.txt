@@ -1,4 +1,4 @@
-new equipment "EQP_CC_Mythborn"
+new equipment "EQP_CC_Mythblade"
 add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "WPN_Rapier"
