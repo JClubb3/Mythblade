@@ -526,3 +526,12 @@ data "Icon" "Spell_New_TensersTransformation"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Shout_MYT_TensersTransformation);"
 
+new entry "MYT_ResidualMagic"
+type "PassiveData"
+data "DisplayName" "h492b1cdeg8df9g891fgd9f2g91f51b077773;1"
+data "Description" "h49183ba1g2a8bgc3a5g6012g08bccae96175;1"
+data "Icon" "PassiveFeature_FontOfInspiration"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnShortRest"
+data "StatsFunctors" "RestoreResource(BladecastCharges, 2, 0);"
+
