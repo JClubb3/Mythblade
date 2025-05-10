@@ -825,6 +825,14 @@
                     <attribute id="TableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
                     <attribute id="UUID" type="guid" value="3ddf573e-83ba-405c-b520-085378a50349"/>
                 </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Water Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_ManifestFury_Water"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="d86bd294-75a2-4f2b-8f83-2e56be131a0a"/>
+                    <attribute id="UUID" type="guid" value="105beb95-d12d-41e3-be54-73bb423a4a59"/>
+                </node>
             </children>
         </node>
     </region>

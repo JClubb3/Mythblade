@@ -619,3 +619,13 @@ data "StackId" "MYT_MANIFESTFURY_FIRE"
 data "TickType" "EndTurn"
 data "Boosts" "StatusImmunity(BURNING);"
 
+new entry "MYT_MANIFESTFURY_WATER"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h9716674cg2aa6g5602g445fgf0e07bc1f24d;1"
+data "Description" "h9aa081c9g29f7g2fb0g591fgf4cd9b760c48;1"
+data "Icon" "Spell_Transmutation_DestroyWater"
+data "StackId" "MYT_MANIFESTFURY_WATER"
+data "TickType" "EndTurn"
+data "Boosts" "StatusImmunity(PRONE_ICE);StatusImmunity(DIFFICULT_TERRAIN);"
+
