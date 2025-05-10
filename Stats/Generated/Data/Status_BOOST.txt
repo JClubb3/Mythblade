@@ -629,3 +629,9 @@ data "StackId" "MYT_MANIFESTFURY_WATER"
 data "TickType" "EndTurn"
 data "Boosts" "StatusImmunity(PRONE_ICE);StatusImmunity(DIFFICULT_TERRAIN);"
 
+new entry "MYT_MANIFESTFURY_EARTH"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MYT_MANIFESTFURY_FIRE"
+data "Boosts" "StatusImmunity(SPIKE_GROWTH);StatusImmunity(DIFFICULT_TERRAIN);"
+

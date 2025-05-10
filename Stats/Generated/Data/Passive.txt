@@ -547,3 +547,9 @@ data "DisplayName" "h123adbfag6f87g7002gbb61g156632293569;1"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Target_MYT_ManifestFury_Water);"
 
+new entry "MYT_ManifestFury_Earth"
+type "PassiveData"
+using "MYT_ManifestFury_Fire"
+data "DisplayName" "h423984d5g562fge808g4d1egf8e1c2869adb;1"
+data "Boosts" "UnlockSpell(Target_MYT_ManifestFury_Earth);"
+
