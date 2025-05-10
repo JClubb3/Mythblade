@@ -609,3 +609,13 @@ data "StackId" "MYT_BLADECAST_TARGET"
 data "TickType" "EndRound"
 data "Boosts" "IF(HasStatus('MYT_BLADECAST_SELF', context.Source) and IsSpell(context.Source)):Disadvantage(AllSavingThrows);IF(HasStatus('MYT_BLADECAST_SELF', context.Source) and IsSpell(context.Source)):Advantage(AttackTarget);"
 
+new entry "MYT_MANIFESTFURY_FIRE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h00f63de2g6130gde08gc22ag456148e75a82;1"
+data "Description" "h697e702eg76b9gce5fgfffdgedd083bf3c9d;1"
+data "Icon" "statIcons_MAG_Fire_Resistance"
+data "StackId" "MYT_MANIFESTFURY_FIRE"
+data "TickType" "EndTurn"
+data "Boosts" "StatusImmunity(BURNING);"
+

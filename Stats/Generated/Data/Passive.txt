@@ -535,3 +535,9 @@ data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnShortRest"
 data "StatsFunctors" "RestoreResource(BladecastCharges, 2, 0);"
 
+new entry "MYT_ManifestFury_Fire"
+type "PassiveData"
+data "DisplayName" "h07cfd08bgc378g53bfga27fg0d064261dd53;1"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_MYT_ManifestFury_Fire);"
+

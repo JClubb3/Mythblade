@@ -557,7 +557,7 @@
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Fire Elementalist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(bc676b9e-a5f7-416e-8d47-b7df80b27ecf,MYT_FireElementalistSpells,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(92dcfa58-1989-4127-a76d-063b77ba0d76,MYT_FireElementalistSpells,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
                     <attribute id="UUID" type="guid" value="eb2ba243-c5c6-4869-9e94-7eaf691ac16f"/>
                 </node>
@@ -816,6 +816,14 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(7a8c98ba-cf77-4f27-97fe-e37c58cde327,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="3e7daade-1a01-48d7-a27e-629b33247646"/>
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Fire Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_ManifestFury_Fire"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
+                    <attribute id="UUID" type="guid" value="3ddf573e-83ba-405c-b520-085378a50349"/>
                 </node>
             </children>
         </node>
