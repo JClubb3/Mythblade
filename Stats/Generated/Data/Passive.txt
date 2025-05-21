@@ -553,3 +553,9 @@ using "MYT_ManifestFury_Fire"
 data "DisplayName" "h423984d5g562fge808g4d1egf8e1c2869adb;1"
 data "Boosts" "UnlockSpell(Target_MYT_ManifestFury_Earth);"
 
+new entry "MYT_ManifestFury_Air"
+type "PassiveData"
+using "MYT_ManifestFury_Fire"
+data "DisplayName" "hb5eff066g79ccg8334g1355g9b5a97002c54;1"
+data "Boosts" "UnlockSpell(Target_MYT_ManifestFury_Air);"
+
