@@ -535,3 +535,27 @@ data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnShortRest"
 data "StatsFunctors" "RestoreResource(BladecastCharges, 2, 0);"
 
+new entry "MYT_ManifestFury_Fire"
+type "PassiveData"
+data "DisplayName" "h07cfd08bgc378g53bfga27fg0d064261dd53;1"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_MYT_ManifestFury_Fire);"
+
+new entry "MYT_ManifestFury_Water"
+type "PassiveData"
+data "DisplayName" "h123adbfag6f87g7002gbb61g156632293569;1"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_MYT_ManifestFury_Water);"
+
+new entry "MYT_ManifestFury_Earth"
+type "PassiveData"
+using "MYT_ManifestFury_Fire"
+data "DisplayName" "h423984d5g562fge808g4d1egf8e1c2869adb;1"
+data "Boosts" "UnlockSpell(Target_MYT_ManifestFury_Earth);"
+
+new entry "MYT_ManifestFury_Air"
+type "PassiveData"
+using "MYT_ManifestFury_Fire"
+data "DisplayName" "hb5eff066g79ccg8334g1355g9b5a97002c54;1"
+data "Boosts" "UnlockSpell(Target_MYT_ManifestFury_Air);"
+
