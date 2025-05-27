@@ -3,6 +3,6 @@ type "StatusData"
 data "StatusType" "DOWNED"
 using "RELENTLESS_ENDURANCE_DOWNED"
 data "DisplayName" "ha00ac646g1c00g87e7g0e48gfc8537b2065c;1"
-data "Icon" "PassiveFeature_DraconicAncestry_Black"
+data "Icon" "Mythblade_EdgeOfDeath"
 data "OnApplyFunctors" "RemoveStatus(MYT_EDGEOFDEATH);RegainHitPoints(1,Guaranteed);ApplyStatus(MYT_EDGEOFDEATH_PROC,100,1);ApplyStatus(MYT_EDGEOFDEATH_TEMPHP, 100, -1);"
 

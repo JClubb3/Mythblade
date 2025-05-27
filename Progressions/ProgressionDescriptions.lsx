@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="8" revision="0" build="10"/>
+    <version major="4" minor="8" revision="0" build="200"/>
     <region id="ProgressionDescriptions">
         <node id="root">
             <children>
@@ -150,6 +150,27 @@
                     <attribute id="SelectorId" type="FixedString" value="MYT_AspectShiftAir"/>
                     <attribute id="Type" type="FixedString" value="Mythblade"/>
                     <attribute id="UUID" type="guid" value="ed565be8-b778-434c-b989-9147fb75ffd6"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hfe129ffcgc16dg4d40g55abg174f0fdeba0b" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf15e43bfg4e87gc139g18cagd4df65d0d98c" version="1"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:BladecastCharges"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="b9567166-996b-4a6a-82f7-62c821156f9e"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hda127ecagc874ge3aag94cag8cef67d6f677" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcd25d201g4d98g512egc290g3ee807b27128" version="2"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:VisionOfDeathCharges"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="175b6d6c-5a17-4b6c-a471-9ae051abb8a1"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h1dfe9a3eg0afcg774bg730cg3d2782bb27ec" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9aab07f0g9c3ag8bf9gbf21g1256b9a39e5a" version="1"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:LegacyShieldingCharges"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="32675de7-ce7b-4474-a496-4ac7ea8d5188"/>
                 </node>
             </children>
         </node>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="8" revision="0" build="10"/>
+    <version major="4" minor="8" revision="0" build="200"/>
     <region id="ClassDescriptions">
         <node id="root">
             <children>
@@ -10,7 +10,7 @@
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Mythblade"/>
                     <attribute id="ClassHotbarColumns" type="int32" value="5"/>
                     <attribute id="CommonHotbarColumns" type="int32" value="9"/>
-                    <attribute id="Description" type="TranslatedString" handle="h9187ca3ag50b0g1ea0g3dceg1497907dc2f9" version="2"/>
+                    <attribute id="Description" type="TranslatedString" handle="h9187ca3ag50b0g1ea0g3dceg1497907dc2f9" version="4"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5756d26fg7388g9892g7c3cga6c9d97fd02b" version="4"/>
                     <attribute id="HpPerLevel" type="int32" value="6"/>
                     <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
@@ -33,6 +33,7 @@
                     </children>
                 </node>
                 <node id="ClassDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h77c72960gd043g3157g00b9gf091133aa32f" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4063d4c8g31a9g8330g5c07g31fafb5cfc7a" version="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
@@ -45,6 +46,7 @@
                     <attribute id="UUID" type="guid" value="0d6c1dd9-061c-4935-a61b-b2642d95ef75"/>
                 </node>
                 <node id="ClassDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h8c937cd0g886ega56fg498fgddd9fe3615aa" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4b0a99c9g9405gf726g0846gcbf986bf2306" version="3"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
@@ -57,6 +59,7 @@
                     <attribute id="UUID" type="guid" value="070fb2c8-4d96-4397-99c8-23e195a5f5d3"/>
                 </node>
                 <node id="ClassDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h65e51d67g936fgf501g6804gabe358b47596" version="3"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hef2a5f30g3bc0gf4f0ge68eg904c29906a80" version="3"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
@@ -81,6 +84,7 @@
                     <attribute id="UUID" type="guid" value="b64a9102-c0a3-44ae-b7fa-22ebee0d0ef8"/>
                 </node>
                 <node id="ClassDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h7f0a4e73gd5ebga2edg5e71g90dbf4ef8ac3" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5a28f23cg957cgc607g334ag6e71ca84eedc" version="3"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
@@ -93,10 +97,11 @@
                     <attribute id="UUID" type="guid" value="63b06110-5828-45d0-9a81-16c61bdead97"/>
                 </node>
                 <node id="ClassDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h2de8c56fg790ege375g4891g4ec1fe0d78ac" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5abde352g443ag2c59g3c51gfe0a47f8995e" version="5"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="FireElementaltist"/>
+                    <attribute id="Name" type="FixedString" value="Inferno"/>
                     <attribute id="ParentGuid" type="guid" value="0d697fcc-31d0-48ac-ba5f-a24eba08a99c"/>
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="1879f13a-a518-42a7-bd72-2b077e944a9b"/>
@@ -105,10 +110,11 @@
                     <attribute id="UUID" type="guid" value="3b17b354-e2ba-4259-bf70-6b3df29d6124"/>
                 </node>
                 <node id="ClassDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h7f9d268bg6f60g06efg9676g577685d5009b" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5b555b80gfa74gaa37g4a1cgd1374b98f53f" version="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="WaterElementalist"/>
+                    <attribute id="Name" type="FixedString" value="Maelstrom"/>
                     <attribute id="ParentGuid" type="guid" value="0d697fcc-31d0-48ac-ba5f-a24eba08a99c"/>
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="d86bd294-75a2-4f2b-8f83-2e56be131a0a"/>
@@ -117,10 +123,11 @@
                     <attribute id="UUID" type="guid" value="6be0c34d-63e3-4113-a738-84fb56237b3c"/>
                 </node>
                 <node id="ClassDescription">
+                    <attribute id="Description" type="TranslatedString" handle="he952651dg6709g59f0g2eddgc4e8b4405a9d" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h43f3fe5cg8635g7d17g34bdgdd72d882eabb" version="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="EarthElementalist"/>
+                    <attribute id="Name" type="FixedString" value="Upheaval"/>
                     <attribute id="ParentGuid" type="guid" value="0d697fcc-31d0-48ac-ba5f-a24eba08a99c"/>
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
@@ -129,10 +136,11 @@
                     <attribute id="UUID" type="guid" value="0b87610e-b5ae-4653-9b76-b932249c182b"/>
                 </node>
                 <node id="ClassDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf0772ad0g4443gb810g16c2geeb2aa305671" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf5afa8c7ge99dgeb4eg10d1g57c9b8dee1cf" version="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="AirElementalist"/>
+                    <attribute id="Name" type="FixedString" value="Tempest"/>
                     <attribute id="ParentGuid" type="guid" value="0d697fcc-31d0-48ac-ba5f-a24eba08a99c"/>
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>

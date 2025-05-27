@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="8" revision="0" build="10"/>
+    <version major="4" minor="8" revision="0" build="200"/>
     <region id="Progressions">
         <node id="root">
             <children>
@@ -50,16 +50,16 @@
                                     <attribute id="Object" type="guid" value="63b06110-5828-45d0-9a81-16c61bdead97"/>
                                 </node>
                                 <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="a9188b2f-a75a-4d08-86b6-9321c62f57b6"/>
+                                    <attribute id="Object" type="guid" value="3b17b354-e2ba-4259-bf70-6b3df29d6124"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="6be0c34d-63e3-4113-a738-84fb56237b3c"/>
                                 </node>
                                 <node id="SubClass">
                                     <attribute id="Object" type="guid" value="0b87610e-b5ae-4653-9b76-b932249c182b"/>
                                 </node>
                                 <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="3b17b354-e2ba-4259-bf70-6b3df29d6124"/>
-                                </node>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="6be0c34d-63e3-4113-a738-84fb56237b3c"/>
+                                    <attribute id="Object" type="guid" value="a9188b2f-a75a-4d08-86b6-9321c62f57b6"/>
                                 </node>
                             </children>
                         </node>
@@ -228,6 +228,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_SwordMage_ImpenetrableWarding;MYT_SwordMage_ImpenetrableWardingShieldBonus"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(f8f324c6-e927-48ef-a81c-45c8e86b315f,MYT_SwordmageSpells,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
@@ -268,7 +269,6 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="15"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Swordmage"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_SwordMage_ImpenetrableWarding;MYT_SwordMage_ImpenetrableWardingShieldBonus"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="c12370ec-6997-49f4-a92e-952343551dac"/>
                     <attribute id="UUID" type="guid" value="8be0ed6d-9d67-4469-9b3d-b6ffead38f0d"/>
@@ -374,6 +374,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Distortionist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_Distortionist_Veil"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(13bc886e-c28e-4063-8cbb-d73b3e56b512,MYT_DistortionistSpells,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="dd56b268-d87b-43bc-93be-f96ef2ab8da1"/>
@@ -727,6 +728,14 @@
                     <attribute id="UUID" type="guid" value="1fca2598-b70c-4ddb-8d43-89348012ee9c"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_ManifestFury_Earth"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
+                    <attribute id="UUID" type="guid" value="229cc54e-cc76-4ec0-b959-602fa89ce3b4"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -785,6 +794,14 @@
                     <attribute id="UUID" type="guid" value="85ac9f65-6c22-4b9a-82c8-f4ffd5f28fc8"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MYT_ManifestFury_Air"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
+                    <attribute id="UUID" type="guid" value="a081d2ea-7d7b-4bf3-988d-e62682ce9a7a"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -832,22 +849,6 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(7a8c98ba-cf77-4f27-97fe-e37c58cde327,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="3e7daade-1a01-48d7-a27e-629b33247646"/>
                     <attribute id="UUID" type="guid" value="edd66eae-f24a-4184-b49b-3872311036c1"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="15"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Earth Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_ManifestFury_Earth"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="a28a06e0-8e37-4eef-95d8-651e5950f273"/>
-                    <attribute id="UUID" type="guid" value="229cc54e-cc76-4ec0-b959-602fa89ce3b4"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="15"/>
-                    <attribute id="Name" type="LSString" value="Legacy of the Air Elementalist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="MYT_ManifestFury_Air"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="c74bc2d9-526a-4c49-9fc3-cfc88d209a58"/>
-                    <attribute id="UUID" type="guid" value="a081d2ea-7d7b-4bf3-988d-e62682ce9a7a"/>
                 </node>
             </children>
         </node>
