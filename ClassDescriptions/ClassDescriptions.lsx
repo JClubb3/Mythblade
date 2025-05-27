@@ -72,6 +72,7 @@
                     <attribute id="UUID" type="guid" value="66cc6329-4649-4dbc-b809-9115eeb51e2c"/>
                 </node>
                 <node id="ClassDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf5cfd53eg7889g1712g65dcg057334c0ff5c" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hef0742e3g4ff4g468dgfbf4g8821f1882619" version="3"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
@@ -149,6 +150,7 @@
                     <attribute id="UUID" type="guid" value="a9188b2f-a75a-4d08-86b6-9321c62f57b6"/>
                 </node>
                 <node id="ClassDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h5cf52009g9a70g1d93ga8b8gaa723890d65d" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hbf7f5294g0852g8606gbdcagc1d65e91c10e" version="2"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
