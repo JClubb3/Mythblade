@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="8" revision="0" build="10"/>
+    <version major="4" minor="8" revision="0" build="200"/>
     <region id="SpellLists">
         <node id="root">
             <children>
@@ -506,6 +506,11 @@
                     <attribute id="Name" type="FixedString" value="AirElementalistAspectShiftLevel5"/>
                     <attribute id="Spells" type="LSString" value="Zone_MYT_ConeOfCold_Lightning"/>
                     <attribute id="UUID" type="guid" value="a8e5b9f9-9d3c-4bea-a83e-3e990a19eb72"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="DeathKnightNecromanticLegacy3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_MYT_NecromanticLegacy"/>
+                    <attribute id="UUID" type="guid" value="93ef8e14-a9ff-44a1-8b44-db97355701d4"/>
                 </node>
             </children>
         </node>
